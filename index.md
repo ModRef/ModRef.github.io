@@ -22,7 +22,7 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
-## Call for Presentations (Deadline: TBD)
+## Call for Presentations (Deadline: TBD)<a name="callForPres"></a>
 
 This year ModRef will include presentations that are not based on submitted papers.
 
@@ -34,7 +34,7 @@ It will be a lightweight submission: we only ask for a title and an abstract to 
 Please submit your title and abstract in PDF format using [...](...). Submissions will be reviewed promptly for appropriateness.
 -->
 
-## Call for Papers (Deadline: TBD)
+## Call for Papers (Deadline: TBD)<a name="callForPapers"></a>
 
 Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
 Submissions of shorter papers, including position papers, are welcome.
@@ -54,7 +54,7 @@ Please note that every workshop participant needs to be registered for the works
 Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 
 
-## Important Dates
+## Important Dates<a name="importantDates"></a>
 
 | Submission date                      | TBD |
 | Notification of acceptance/rejection | TBD |
@@ -62,11 +62,11 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 | Workshop day                         | August 27th, 2018 |
 
 
-## Program Committee
+## Program Committee<a name="programCommittee"></a>
 
 | Kevin Leo (Chair)             | Monash University |
 
 <!--
-## Timetable: TBD
+## Timetable: TBD <a name="timetable"></a>
 
 | time | title | -->
