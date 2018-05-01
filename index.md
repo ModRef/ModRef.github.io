@@ -66,6 +66,9 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 
 | Kevin Leo (Chair)             | Monash University |
 | Jimmy Lee                     | Chinese University of Hong Kong |
+| Helmut Simonis                | The Insight Centre for Data Analytics |
+| Christopher Jefferson         | University of St. Andrews |
+| Jean-Noël Monette             | Tacton |
 
 <!--
 ## Timetable: TBD <a name="timetable"></a>
