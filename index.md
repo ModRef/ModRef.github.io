@@ -65,6 +65,7 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 ## <a name="programCommittee"></a> Program Committee
 
 | Kevin Leo (Chair)             | Monash University |
+| Jimmy Lee                     | Chinese University of Hong Kong |
 
 <!--
 ## Timetable: TBD <a name="timetable"></a>
