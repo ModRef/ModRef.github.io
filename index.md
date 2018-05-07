@@ -22,7 +22,7 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
-## <a name="callForPres"></a> Call for Presentations (Deadline: TBD)
+## <a name="callForPres"></a> Call for Presentations (Deadline: June 29th, 2018)
 
 This year ModRef will include presentations that are not based on submitted papers.
 
@@ -57,11 +57,10 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 
 ## <a name="importantDates"></a> Important Dates
 
-| Submission date                      |   June 15th, 2018 |
+| Submission date                      |   June 29th, 2018 |
 | Notification of acceptance/rejection | August 10th, 2018 |
 | Camera ready version                 | August 17th, 2018 |
 | Workshop day                         | August 27th, 2018 |
-
 
 ## <a name="programCommittee"></a> Program Committee
 
