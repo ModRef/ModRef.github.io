@@ -30,11 +30,12 @@ In addition to the presentation of research results, we especially welcome talks
 recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
 It will be a lightweight submission: we only ask for a title and an abstract to be used in the program.
 
-<!--
-Please submit your title and abstract in PDF format using [...](...). Submissions will be reviewed promptly for appropriateness.
--->
+Submissions must be in PDF format, formatted in the Lecture Notes in Computer Science (LNCS) style.
+The link for the submission website will appear here soon.
 
 <!--
+Please submit your title and abstract in PDF format using [...](...). Submissions will be reviewed promptly for appropriateness.
+
 ## <a name="callForPapers"></a> Call for Papers (Deadline: TBD)
 
 Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
