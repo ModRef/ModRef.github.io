@@ -34,10 +34,12 @@ It will be a lightweight submission: we only ask for a title and an abstract to 
 Please submit your title and abstract in PDF format using [...](...). Submissions will be reviewed promptly for appropriateness.
 -->
 
+<!--
 ## <a name="callForPapers"></a> Call for Papers (Deadline: TBD)
 
 Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
 Submissions of shorter papers, including position papers, are welcome.
+-->
 
 <!--
 Papers must be submitted in PDF format using [...](...).
@@ -53,12 +55,11 @@ Please note that every workshop participant needs to be registered for the works
 
 Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 
-
 ## <a name="importantDates"></a> Important Dates
 
-| Submission date                      | TBD |
-| Notification of acceptance/rejection | TBD |
-| Camera ready version                 | TBD |
+| Submission date                      |   June 15th, 2018 |
+| Notification of acceptance/rejection | August 10th, 2018 |
+| Camera ready version                 | August 17th, 2018 |
 | Workshop day                         | August 27th, 2018 |
 
 
