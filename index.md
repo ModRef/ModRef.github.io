@@ -65,10 +65,12 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 ## <a name="programCommittee"></a> Program Committee
 
 | Kevin Leo (Chair)             | Monash University |
-| Jimmy Lee                     | Chinese University of Hong Kong |
-| Helmut Simonis                | The Insight Centre for Data Analytics |
+| Andrea Rendl-Pitrey           | Satalia |
 | Christopher Jefferson         | University of St. Andrews |
+| Helmut Simonis                | The Insight Centre for Data Analytics |
 | Jean-Noël Monette             | Tacton |
+| Jimmy Lee                     | Chinese University of Hong Kong |
+| Özgür Akgün                   | University of St. Andrews |
 
 <!--
 ## Timetable: TBD <a name="timetable"></a>
