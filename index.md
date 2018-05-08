@@ -49,7 +49,6 @@ The proceedings will be available electronically at CP 2018.
 At least one author of each accepted paper must attend the workshop.
 Please note that every workshop participant needs to be registered for the workshop.
 
-Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express interest, to have an informal discussion, etc.
 
 ## <a name="importantDates"></a> Important Dates
@@ -74,3 +73,9 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 Directions to the workshop venue will appear here when they are available.
 
 | time | title |
+
+## <a name="pmodrefs"></a> Previous ModRef Workshops
+Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
+A searchable list of previous presentations can be found [here](https://modref2018.github.io/ModRefHistory), (Note: links to slides, papers and posters are not working).
+
+
