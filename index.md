@@ -1,6 +1,6 @@
 ModRef 2018 will be the 17th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 ModRef has always been co-located with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
-This year ModRef will run at [The 24th International Conference on Principles and Practice of Constraint Programming](http://cp2018.a4cp.org/)
+This year ModRef will run at [The 24th International Conference on Principles and Practice of Constraint Programming](http://cp2018.a4cp.org/) in Lille, France on the 27th of August.
 
 Recent years have witnessed significant research devoted to modelling and solving problems with constraints.
 The importance of modelling and model reformulation is widely recognised.
@@ -24,29 +24,24 @@ Workshop topics include:
 
 ## <a name="callForPres"></a> Call for Presentations (Deadline: June 29th, 2018)
 
-This year ModRef will include presentations that are not based on submitted papers.
+This year ModRef will again include presentations that are not based on submitted papers.
 
 In addition to the presentation of research results, we especially welcome talks describing ongoing work,
 recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
-It will be a lightweight submission: we only ask for a title and an abstract to be used in the program.
+It will be a lightweight submission: we only ask for a title and a 1-page abstract to be used in the program.
 
 Submissions must be in PDF format, formatted in the Lecture Notes in Computer Science (LNCS) style.
 The link for the submission website will appear here soon.
 
-<!--
-Please submit your title and abstract in PDF format using [...](...). Submissions will be reviewed promptly for appropriateness.
+Please submit your title and abstract in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
+Submissions will be reviewed promptly for appropriateness.
 
-## <a name="callForPapers"></a> Call for Papers (Deadline: TBD)
+## <a name="callForPapers"></a> Call for Papers (Deadline: June 29th, 2018)
 
-Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
-Submissions of shorter papers, including position papers, are welcome.
--->
-
-<!--
-Papers must be submitted in PDF format using [...](...).
--->
-
-Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express interest, to have an informal discussion, etc.
+In addition to the short form abstract only submissions we will continue to accept full paper submissions.
+These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
+Submissions of shorter papers, including position papers, are also welcome.
+Please submit your paper in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic
 of the workshop will be accepted for publication in the workshop proceedings.
@@ -55,6 +50,7 @@ At least one author of each accepted paper must attend the workshop.
 Please note that every workshop participant needs to be registered for the workshop.
 
 Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
+Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express interest, to have an informal discussion, etc.
 
 ## <a name="importantDates"></a> Important Dates
 
@@ -73,7 +69,8 @@ Past events of this workshop series can be found [here](https://www-users.cs.yor
 | Jimmy Lee                     | Chinese University of Hong Kong |
 | Özgür Akgün                   | University of St. Andrews |
 
-<!--
-## Timetable: TBD <a name="timetable"></a>
+## <a name="timetable"></a> Timetable (August 27th, 2018)
 
-| time | title | -->
+Directions to the workshop venue will appear here when they are available.
+
+| time | title |
