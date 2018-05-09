@@ -53,6 +53,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 ## <a name="importantDates"></a> Important Dates
 
+|--------------------------------------|------------------:|
 | Submission date                      |   June 29th, 2018 |
 | Notification of acceptance/rejection | August 10th, 2018 |
 | Camera ready version                 | August 17th, 2018 |
@@ -60,6 +61,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 ## <a name="programCommittee"></a> Program Committee
 
+|-------------------------------|------------------:|
 | Kevin Leo (Chair)             | Monash University |
 | Andrea Rendl-Pitrey           | Satalia |
 | Christopher Jefferson         | University of St. Andrews |
