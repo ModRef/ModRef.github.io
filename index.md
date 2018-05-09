@@ -68,14 +68,18 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 | Jimmy Lee                     | Chinese University of Hong Kong |
 | Özgür Akgün                   | University of St. Andrews |
 
-## <a name="timetable"></a> Timetable (August 27th, 2018)
+## <a name="timetable"></a> Program (August 27th, 2018)
 
 Directions to the workshop venue will appear here when they are available.
+The program timetable will appear here along with links to submitted papers when the program is finalised.
 
-| time | title |
+<!--
+| Time | Authors | Title | Links | -->
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
-Past events of this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
-A searchable list of previous presentations can be found [here](https://modref2018.github.io/ModRefHistory), (Note: links to slides, papers and posters are not working).
+The ModRef workshop has been running for 17 years and has hosted many interesting presentations.
+
+ - Past events in this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
+ - A searchable list of previous presentations can be found [here](https://modref2018.github.io/ModRefHistory), (Note: links to slides, papers and posters are not working).
 
 
