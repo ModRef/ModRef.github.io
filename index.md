@@ -63,7 +63,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 |-------------------------------|------------------:|
 | Kevin Leo (Chair)             | Monash University |
-| Andrea Rendl-Pitrey           | Satalia |
+| Andrea Rendl                  | Satalia |
 | Christopher Jefferson         | University of St. Andrews |
 | Helmut Simonis                | The Insight Centre for Data Analytics |
 | Jean-Noël Monette             | Tacton |
