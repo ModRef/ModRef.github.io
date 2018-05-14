@@ -38,7 +38,7 @@ Submissions will be reviewed promptly for appropriateness.
 
 ## <a name="callForPapers"></a> Call for Papers (Deadline: June 29th, 2018)
 
-In addition to the short form abstract only submissions we will continue to accept full paper submissions.
+In addition to the short form abstract only submissions we are also accepting full paper submissions.
 These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
 Submissions of shorter papers, including position papers, are also welcome.
 Please submit your paper in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
