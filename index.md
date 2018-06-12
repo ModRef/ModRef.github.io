@@ -31,9 +31,7 @@ recent breakthroughs, future directions, and descriptions of interesting aspects
 It will be a lightweight submission: we only ask for a title and a 1-page abstract to be used in the program.
 
 Submissions must be in PDF format, formatted in the Lecture Notes in Computer Science (LNCS) style.
-The link for the submission website will appear here soon.
-
-Please submit your title and abstract in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
+Please submit your title and abstract using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
 Submissions will be reviewed promptly for appropriateness.
 
 ## <a name="callForPapers"></a> Call for Papers (Deadline: July 6th, 2018)
