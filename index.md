@@ -22,9 +22,9 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
-## <a name="callForPres"></a> Call for Presentations (Deadline: ~~July 6th, 2018~~ Extended: July 10th, 2018)
+## <a name="callForPres"></a> Call for Presentations (Deadline: July 17th, 2018)
 
-This year ModRef will again include presentations that are not based on submitted papers.
+This year ModRef will again include (abstract-only) presentations that are not based on submitted papers.
 
 In addition to the presentation of research results, we especially welcome talks describing ongoing work,
 recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
@@ -34,7 +34,7 @@ Submissions must be in PDF format, formatted in the Lecture Notes in Computer Sc
 Please submit your title and abstract using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
 Submissions will be reviewed promptly for appropriateness.
 
-## <a name="callForPapers"></a> Call for Papers (Deadline: ~~July 6th, 2018~~ Extended: July 10th, 2018)
+## <a name="callForPapers"></a> Call for Papers (Final deadline: July 17th, 2018)
 
 In addition to the short form abstract only submissions we are also accepting full paper submissions.
 These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
@@ -53,7 +53,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 |--------------------------------------|--------------------:|
 | ~~Submission date~~                  | ~~July  6th, 2018~~ |
-| Extented Submission date             |   July   10th, 2018 |
+| Extented Submission date             |   July   17th, 2018 |
 | Notification of acceptance/rejection |   August 10th, 2018 |
 | Camera ready version                 |   August 17th, 2018 |
 | Workshop day                         |   August 27th, 2018 |
