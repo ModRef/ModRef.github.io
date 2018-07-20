@@ -21,8 +21,7 @@ Workshop topics include:
 - Automatic reformulation techniques;
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
-
-## <a name="callForPres"></a> Call for Presentations (Deadline: July 17th, 2018)
+## <a name="callForPres"></a> Call for Presentations (Deadline passed)
 
 This year ModRef will again include (abstract-only) presentations that are not based on submitted papers.
 
@@ -30,22 +29,24 @@ In addition to the presentation of research results, we especially welcome talks
 recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
 It will be a lightweight submission: we only ask for a title and a 1-page abstract to be used in the program.
 
+<!---
 Submissions must be in PDF format, formatted in the Lecture Notes in Computer Science (LNCS) style.
 Please submit your title and abstract using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
 Submissions will be reviewed promptly for appropriateness.
+--->
 
-## <a name="callForPapers"></a> Call for Papers (Final deadline: July 17th, 2018)
+## <a name="callForPapers"></a> Call for Papers (Deadline passed)
 
 In addition to the short form abstract only submissions we are also accepting full paper submissions.
 These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
 Submissions of shorter papers, including position papers, are also welcome.
-Please submit your paper in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
-
+<!---Please submit your paper in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic
 of the workshop will be accepted for publication in the workshop proceedings.
 The proceedings will be available electronically at CP 2018.
 At least one author of each accepted paper must attend the workshop.
 Please note that every workshop participant needs to be registered for the workshop.
+--->
 
 Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express interest, to have an informal discussion, etc.
 
@@ -53,8 +54,8 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 |--------------------------------------|--------------------:|
 | ~~Submission date~~                  | ~~July  6th, 2018~~ |
-| Extented Submission date             |   July   17th, 2018 |
-| Notification of acceptance/rejection |   August 10th, 2018 |
+| ~~Extented Submission date~~         | ~~July   17th, 2018~~ |
+| **Notification of acceptance/rejection** | **August 10th, 2018** |
 | Camera ready version                 |   August 17th, 2018 |
 | Workshop day                         |   August 27th, 2018 |
 
