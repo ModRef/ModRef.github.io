@@ -55,8 +55,8 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 |--------------------------------------|--------------------:|
 | ~~Submission date~~                  | ~~July  6th, 2018~~ |
 | ~~Extented Submission date~~         | ~~July   17th, 2018~~ |
-| **Notification of acceptance/rejection** | **August 10th, 2018** |
-| Camera ready version                 |   August 17th, 2018 |
+| ~~**Notification of acceptance/rejection**~~ | ~~**August 10th, 2018**~~ |
+| ~~Camera ready version~~                 |   ~~August 17th, 2018~~ |
 | Workshop day                         |   August 27th, 2018 |
 
 ## <a name="programCommittee"></a> Program Committee
@@ -76,8 +76,18 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 Directions to the workshop venue will appear here when they are available.
 The program timetable will appear here along with links to submitted papers when the program is finalised.
 
-<!--
-| Time | Authors | Title | Links | -->
+| Time | Authors | Title | Links |
+|------| ------- | ----- | ----- |
+| 14:00 - 14:30	| Michele Lombardi |	*Invited Talk:* Empirical Constraint Model Learning | |
+| 14:30 - 14:50	| Özgür Akgün and Ian Miguel |	Modelling Langford's Problem: A Viewpoint for Search | |
+| 14:50 - 15:10	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints | |
+| 15:10 - 15:30	| Andrea Rendl and Christina Burt	| Demand-driven Delivery Staff Rostering | |
+| *15:30 - 16:00*	| *Coffee Break*	| | |
+| 16:00 - 16:40	| Helmut Simonis	| *Invited Talk:*  Considering Feedback Loops in Constraint Programming Methodology | |
+| 16:40 - 17:00	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences | |
+| 17:00 - 17:20	| Tias Guns, Peter J. Stuckey and Guido Tack	| Solution Dominance over Constraint Satisfaction Problems | |
+| 17:20 - 17:40	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets | |
+| 17:40 - 18:00	| Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey	| A Study of Evacuation Planning for Wildfires | |
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 17 years and has hosted many interesting presentations.
