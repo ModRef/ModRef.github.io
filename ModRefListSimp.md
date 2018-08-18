@@ -1,13 +1,22 @@
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
-| 2017 | Peter Stuckey                              | **Ten Years of MiniZinc** | Invited |
-| 2017 | Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young | **Priority Search with MiniZinc** | Paper |
-| 2017 | Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble | **Modelling and Optimisation with Graphs** | Short |
-| 2017 | Kenneth Young                              | **A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem** | Short |
-| 2017 | David Mitchell                             | **A Logical View of Constraint Modelling and Reformulation** | Invited |
-| 2017 | Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack | **Solution Checking with MiniZinc** | Paper |
-| 2017 | Miquel Bofill                              | **Towards Compact SMT Encodings for Numeric Planning** | Short |
-| 2017 | Masoumeh Vali and Khodakaram Salimifard    | **A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem** | Paper |
+| 2018	| Michele Lombardi | Empirical Constraint Model Learning | Invited |
+| 2018	| Özgür Akgün and Ian Miguel |	Modelling Langford's Problem: A Viewpoint for Search | Paper |
+| 2018	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints | Paper |
+| 2018	| Andrea Rendl and Christina Burt	| Demand-driven Delivery Staff Rostering | Paper |
+| 2018	| Helmut Simonis	| Considering Feedback Loops in Constraint Programming Methodology | Invited |
+| 2018	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences | Paper |
+| 2018	| Tias Guns, Peter J. Stuckey and Guido Tack	| Solution Dominance over Constraint Satisfaction Problems | Paper |
+| 2018	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets | Paper |
+| 2018	| Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey	| A Study of Evacuation Planning for Wildfires | Paper |
+| 2017 | Peter Stuckey                              | Ten Years of MiniZinc | Invited |
+| 2017 | Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young | Priority Search with MiniZinc | Paper |
+| 2017 | Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble | Modelling and Optimisation with Graphs | Short |
+| 2017 | Kenneth Young                              | A Logic-Based Benders Decomposition of an Assembly Line Balancing and Scheduling Problem | Short |
+| 2017 | David Mitchell                             | A Logical View of Constraint Modelling and Reformulation | Invited |
+| 2017 | Carleton Coffrin, Siqi Liu, Peter J. Stuckey and Guido Tack | Solution Checking with MiniZinc | Paper |
+| 2017 | Miquel Bofill                              | Towards Compact SMT Encodings for Numeric Planning | Short |
+| 2017 | Masoumeh Vali and Khodakaram Salimifard    | A Constraint Programming Approach for Solving Multiple Traveling Salesman Problem | Paper |
 | 2016 | K. Leo and G. Tack.                        | Debugging Unsatisfiable Constraint Models  | Paper |
 | 2016 | G. Schenner and R. Taupe                   | Encoding Object-oriented Models in MiniZinc | Paper |
 | 2016 | M. Codish, M. Frank, and V. Lagoon         | DNA Word Design: A New Constraint Model and New Results| Paper |
