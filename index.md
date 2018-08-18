@@ -73,9 +73,6 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 ## <a name="timetable"></a> Program (August 27th, 2018)
 
-Directions to the workshop venue will appear here when they are available.
-The program timetable will appear here along with links to submitted papers when the program is finalised.
-
 | Time | Authors | Title |
 |------| ------- | ----- |
 | 14:00	| Michele Lombardi |	*Invited Talk:* Empirical Constraint Model Learning |
