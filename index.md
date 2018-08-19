@@ -75,16 +75,16 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 | Time | Authors | Title |
 |------| ------- | ----- |
-| 14:00	| *Invited Talk:*  Michele Lombardi |	Empirical Constraint Model Learning |
-| 14:30	| Özgür Akgün and Ian Miguel |	Modelling Langford's Problem: A Viewpoint for Search |
-| 14:50	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints |
-| 15:10	| Andrea Rendl and Christina Burt	| Demand-driven Delivery Staff Rostering |
+| 14:00	| *Invited Talk:*  Michele Lombardi            |	Empirical Constraint Model Learning |
+| 14:30	| Özgür Akgün and Ian Miguel                   |	Modelling Langford's Problem: A Viewpoint for Search [(paper)](papers/ModRef2018_LangfordViewpoints.pdf) |
+| 14:50	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints [(paper)](papers/ModRef2018_MemoryConsistencyModels.pdf) |
+| 15:10	| Andrea Rendl and Christina Burt	             | Demand-driven Delivery Staff Rostering  |
 | *15:30*	| *Coffee Break*	| |
-| 16:00	| *Invited Talk:* Helmut Simonis	| Considering Feedback Loops in Constraint Programming Methodology |
-| 16:40	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences |
-| 17:00	| Tias Guns, Peter J. Stuckey and Guido Tack	| Solution Dominance over Constraint Satisfaction Problems |
-| 17:20	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets |
-| 17:40	| Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey	| A Study of Evacuation Planning for Wildfires |
+| 16:00	| *Invited Talk:* Helmut Simonis	              | Considering Feedback Loops in Constraint Programming Methodology |
+| 16:40	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences [(paper)](papers/ModRef2018_TransducerBasedFunctionalSequenceConstraints.pdf) |
+| 17:00	| Tias Guns, Peter J. Stuckey and Guido Tack	  | Solution Dominance over Constraint Satisfaction Problems [(paper)](papers/ModRef2018_SolutionDominance.pdf) |
+| 17:20	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets [(paper)](papers/ModRef2018_LocalSearchEssence.pdf) |
+| 17:40	| Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey	| A Study of Evacuation Planning for Wildfires [(paper)](papers/ModRef2018_EvacuationPlanning.pdf) |
 | 18:00 | *End of workshop* |
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
