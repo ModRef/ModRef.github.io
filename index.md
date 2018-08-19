@@ -55,9 +55,9 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 |--------------------------------------|--------------------:|
 | ~~Submission date~~                  | ~~July  6th, 2018~~ |
 | ~~Extented Submission date~~         | ~~July   17th, 2018~~ |
-| ~~**Notification of acceptance/rejection**~~ | ~~**August 10th, 2018**~~ |
+| ~~Notification of acceptance/rejection~~ | ~~August 10th, 2018~~ |
 | ~~Camera ready version~~                 |   ~~August 17th, 2018~~ |
-| Workshop day                         |   August 27th, 2018 |
+| **Workshop day**                         |   **August 27th, 2018** |
 
 ## <a name="programCommittee"></a> Program Committee
 
