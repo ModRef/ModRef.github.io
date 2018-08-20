@@ -78,7 +78,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 | 14:00	| *Invited Talk:*  Michele Lombardi            |	Empirical Constraint Model Learning |
 | 14:30	| Özgür Akgün and Ian Miguel                   |	Modelling Langford's Problem: A Viewpoint for Search [(paper)](papers/ModRef2018_LangfordViewpoints.pdf) |
 | 14:50	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints [(paper)](papers/ModRef2018_MemoryConsistencyModels.pdf) |
-| 15:10	| Andrea Rendl and Christina Burt	             | Demand-driven Delivery Staff Rostering  |
+| 15:10	| Andrea Rendl and Christina Burt	             | Demand-driven Delivery Staff Rostering [(paper)](papers/ModRef2018_DemandDrivenStaffRostering.pdf)  |
 | *15:30*	| *Coffee Break*	| |
 | 16:00	| *Invited Talk:* Helmut Simonis	              | Considering Feedback Loops in Constraint Programming Methodology |
 | 16:40	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences [(paper)](papers/ModRef2018_TransducerBasedFunctionalSequenceConstraints.pdf) |
