@@ -75,7 +75,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 | Time | Authors | Title |
 |------| ------- | ----- |
-| 14:00	| *Invited Talk:*  Michele Lombardi            |	Empirical Constraint Model Learning |
+| 14:00	| *Invited Talk:*  Michele Lombardi            |	Empirical Decision Model Learning |
 | 14:30	| Özgür Akgün and Ian Miguel                   |	Modelling Langford's Problem: A Viewpoint for Search [(paper)](papers/ModRef2018_LangfordViewpoints.pdf) |
 | 14:50	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints [(paper)](papers/ModRef2018_MemoryConsistencyModels.pdf) |
 | 15:10	| Andrea Rendl and Christina Burt	             | Demand-driven Delivery Staff Rostering [(paper)](papers/ModRef2018_DemandDrivenStaffRostering.pdf)  |
