@@ -1,6 +1,6 @@
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
-| 2018	| Michele Lombardi | Empirical Constraint Model Learning | Invited |
+| 2018	| Michele Lombardi | Empirical Decision Model Learning | Invited |
 | 2018	| Özgür Akgün and Ian Miguel |	Modelling Langford's Problem: A Viewpoint for Search | Paper |
 | 2018	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints | Paper |
 | 2018	| Andrea Rendl and Christina Burt	| Demand-driven Delivery Staff Rostering | Paper |
