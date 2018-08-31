@@ -1,6 +1,6 @@
-ModRef 2018 will be the 17th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
+ModRef 2018 was the 17th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 ModRef has always been co-located with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
-This year ModRef will run at [The 24th International Conference on Principles and Practice of Constraint Programming](http://cp2018.a4cp.org/) in Lille, France on the 27th of August.
+The workshop ran at [The 24th International Conference on Principles and Practice of Constraint Programming](http://cp2018.a4cp.org/) in Lille, France on the 27th of August 2018.
 
 Recent years have witnessed significant research devoted to modelling and solving problems with constraints.
 The importance of modelling and model reformulation is widely recognised.
@@ -57,7 +57,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 | ~~Extented Submission date~~         | ~~July   17th, 2018~~ |
 | ~~Notification of acceptance/rejection~~ | ~~August 10th, 2018~~ |
 | ~~Camera ready version~~                 |   ~~August 17th, 2018~~ |
-| **Workshop day**                         |   **August 27th, 2018** |
+| ~~Workshop day~~                         |   ~~August 27th, 2018~~ |
 
 ## <a name="programCommittee"></a> Program Committee
 
@@ -75,15 +75,15 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 
 | Time | Authors | Title |
 |------| ------- | ----- |
-| 14:00	| *Invited Talk:*  Michele Lombardi            |	Empirical Decision Model Learning |
+| 14:00	| *Invited Talk:*  Michele Lombardi            |	Empirical Decision Model Learning [(slides)](slides/ModRef2018_Slides_Empirical Decision Model Learning.pdf)[(resources)](https://emlopt.github.io) |
 | 14:30	| Özgür Akgün and Ian Miguel                   |	Modelling Langford's Problem: A Viewpoint for Search [(paper)](papers/ModRef2018_LangfordViewpoints.pdf) |
 | 14:50	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints [(paper)](papers/ModRef2018_MemoryConsistencyModels.pdf) |
-| 15:10	| Andrea Rendl and Christina Burt	             | Demand-driven Delivery Staff Rostering [(paper)](papers/ModRef2018_DemandDrivenStaffRostering.pdf)  |
+| 15:10	| Andrea Rendl and Christina Burt	             | Demand-driven Delivery Staff Rostering [(paper)](papers/ModRef2018_DemandDrivenStaffRostering.pdf)[(slides)](slides/ModRef2018_Slides_DemandDrivenStaffRostering.pdf)[(models+data)](https://github.com/angee/demand-shift-pattern)  |
 | *15:30*	| *Coffee Break*	| |
-| 16:00	| *Invited Talk:* Helmut Simonis	              | Considering Feedback Loops in Constraint Programming Methodology |
-| 16:40	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences [(paper)](papers/ModRef2018_TransducerBasedFunctionalSequenceConstraints.pdf) |
+| 16:00	| *Invited Talk:* Helmut Simonis	              | Considering Feedback Loops in Constraint Programming Methodology [(slides)](slides/ModRef2018_Slides_Considering Feedback Loops in CP Methodology.pdf) |
+| 16:40	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences [(paper)](papers/ModRef2018_TransducerBasedFunctionalSequenceConstraints.pdf)[(slides)](slides/ModRef2018_Slides_TransducerBasedFunctionalSequenceConstraints.pdf) |
 | 17:00	| Tias Guns, Peter J. Stuckey and Guido Tack	  | Solution Dominance over Constraint Satisfaction Problems [(paper)](papers/ModRef2018_SolutionDominance.pdf) |
-| 17:20	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets [(paper)](papers/ModRef2018_LocalSearchEssence.pdf) |
+| 17:20	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets [(paper)](papers/ModRef2018_LocalSearchEssence.pdf)[(slides)](slides/ModRef2018_Slides_LocalSearchEssence.pdf) |
 | 17:40	| Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey	| A Study of Evacuation Planning for Wildfires [(paper)](papers/ModRef2018_EvacuationPlanning.pdf) |
 | 18:00 | *End of workshop* |
 
