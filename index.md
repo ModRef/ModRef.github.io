@@ -89,7 +89,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 | 16:00	| *Invited Talk:* Helmut Simonis	              | Considering Feedback Loops in Constraint Programming Methodology [(slides)](slides/ModRef2018_Slides_Considering Feedback Loops in CP Methodology.pdf) |
 | 16:40	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences [(paper)](papers/ModRef2018_TransducerBasedFunctionalSequenceConstraints.pdf)[(slides)](slides/ModRef2018_Slides_TransducerBasedFunctionalSequenceConstraints.pdf) |
 | 17:00	| Tias Guns, Peter J. Stuckey and Guido Tack	  | Solution Dominance over Constraint Satisfaction Problems [(paper)](papers/ModRef2018_SolutionDominance.pdf) |
-| 17:20	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets [(paper)](papers/ModRef2018_LocalSearchEssence.pdf)[(slides)](slides/ModRef2018_Slides_LocalSearchEssence.pdf) |
+| 17:20	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets [(paper)](papers/ModRef2018_LocalSearchEssence.pdf)[(slides)](slides/ModRef2018_Slides_LocalSearchEssence.pdf)[(code repository)](https://github.com/athanor/athanor) |
 | 17:40	| Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey	| A Study of Evacuation Planning for Wildfires [(paper)](papers/ModRef2018_EvacuationPlanning.pdf) |
 | 18:00 | *End of workshop* |
 
