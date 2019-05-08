@@ -1,3 +1,8 @@
+---
+layout: Layout2018
+title: ModRef 2018
+---
+
 ModRef 2018 was the 17th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 ModRef has always been co-located with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
 The workshop ran at [The 24th International Conference on Principles and Practice of Constraint Programming](http://cp2018.a4cp.org/) in Lille, France on the 27th of August 2018.
