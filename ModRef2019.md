@@ -6,7 +6,7 @@ redirect_from: "/"
 
 ModRef 2019 is the 18th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 ModRef has always been co-located with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
-The workshop will run at [The 25th International Conference on Principles and Practice of Constraint Programming, CP2019](http://cp2019.a4cp.org/) in Stamford, CT, U.S. on September 29th 2019.
+The workshop will run at [The 25th International Conference on Principles and Practice of Constraint Programming, CP2019](http://cp2019.a4cp.org/) in Stamford, CT, U.S. on September 30th 2019.
 
 Recent years have witnessed significant research devoted to modelling and solving problems with constraints.
 The importance of modelling and model reformulation is widely recognised.
@@ -66,7 +66,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 | Submission date                      | TBD                  |
 | Notification of acceptance/rejection | TBD                  |
 | Camera ready version                 | TBD                  |
-| Workshop day                         | September 29th, 2019 |
+| Workshop day                         | September 30th, 2019 |
 
 
 ## <a name="programCommittee"></a> Program Committee
@@ -82,7 +82,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 | Özgür Akgün                   | University of St. Andrews |
 
 
-## <a name="timetable"></a> Program (September 29th, 2019)
+## <a name="timetable"></a> Program (September 30th, 2019)
 
 The program will be outlined here closer to the workshop day.
 
