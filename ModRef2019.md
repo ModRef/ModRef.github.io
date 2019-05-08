@@ -72,6 +72,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 ## <a name="programCommittee"></a> Program Committee
 
 |-------------------------------|------------------:|
+| Michael Morin (Chair)         | Laval University |
 | Kevin Leo (Chair)             | Monash University |
 | Alan Frisch                   | University of York |
 | Andrea Rendl                  | Satalia |
