@@ -87,7 +87,7 @@ The program will be outlined here closer to the workshop day.
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 18 years and has hosted many interesting presentations.
 
- - The 2018 workshop page was hosted at ModRef2018.github.io, and is duplicated [here](ModRef.github.io/ModRef2018).
+ - The 2018 workshop page was hosted at ModRef2018.github.io, and is duplicated [here](ModRef2018).
  - Past events in this workshop series can be found [here](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
  - A searchable list of previous presentations can be found [here](https://modref2018.github.io/ModRefHistory), (Note: links to slides, papers and posters are not working).
 
