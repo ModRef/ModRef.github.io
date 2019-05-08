@@ -1,3 +1,8 @@
+---
+layout: default
+title: ModRef 2019
+---
+
 ModRef 2019 is the 18th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
 ModRef has always been co-located with the [Constraint Programming (CP) conference](http://www.a4cp.org/events/cp-conference-series) in the past.
 The workshop will run at [The 25th International Conference on Principles and Practice of Constraint Programming, CP2019](http://cp2019.a4cp.org/) in Stamford, CT, U.S. on September 29th 2019.
