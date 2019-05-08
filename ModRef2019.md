@@ -81,7 +81,7 @@ Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express inter
 | Özgür Akgün                   | University of St. Andrews |
 
 
-## <a name="timetable"></a> Program (August 27th, 2018)
+## <a name="timetable"></a> Program (September 29th, 2019)
 
 The program will be outlined here closer to the workshop day.
 
