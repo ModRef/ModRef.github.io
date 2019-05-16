@@ -28,45 +28,24 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
-## <a name="callForPres"></a> Call for Presentations/Papers
+## <a name="callForPres"></a> Call for Presentations (Deadline: July 14th, 2019)
+This year ModRef will again include presentations that are not based on submitted papers. In addition to the presentation of research results, we especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. Lightweight submissions must be in the form of a one (1) or two (2) pages extended abstract (excluding references) in the Lecture Notes in Computer Science (LNCS) style. Please submit your extended abstract in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2019).
 
-The call for presentations will appear here shortly.
 
-<!---
-This year ModRef will again include (abstract-only) presentations that are not based on submitted papers.
+## <a name="callForPapers"></a> Call for Papers (Deadline: July 14th, 2019)
+In addition to the short form abstract only submissions we are also accepting full paper submissions. These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references. Submissions of shorter papers, including position papers, are also welcome. Please submit your paper in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2019).
 
-In addition to the presentation of research results, we especially welcome talks describing ongoing work,
-recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
-It will be a lightweight submission: we only ask for a title and a 1-page abstract to be used in the program.
+All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2019. Accepted contributions will be allowed a time slot for a presentation at the workshop. At least one author of each accepted paper must attend and present at the workshop. Please note that every workshop participant needs to be registered for the workshop.
 
-Submissions must be in PDF format, formatted in the Lecture Notes in Computer Science (LNCS) style.
-Please submit your title and abstract using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
-Submissions will be reviewed promptly for appropriateness.
---->
-
-<!---
-## <a name="callForPapers"></a> Call for Papers (Deadline passed)
-
-In addition to the short form abstract only submissions we are also accepting full paper submissions.
-These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references.
-Submissions of shorter papers, including position papers, are also welcome.
-<!---Please submit your paper in PDF format using [EasyChair](http://www.easychair.org/conferences/?conf=modref2018).
-All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic
-of the workshop will be accepted for publication in the workshop proceedings.
-The proceedings will be available electronically at CP 2018.
-At least one author of each accepted paper must attend the workshop.
-Please note that every workshop participant needs to be registered for the workshop.
---->
-
-Please feel free to [get in touch](mailto:kevin.leo@monash.edu) to express interest, to have an informal discussion, etc.
+Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to express interest, to have an informal discussion, etc.
 
 ## <a name="importantDates"></a> Important Dates
 
 |--------------------------------------|---------------------:|
-| Submission date                      | TBD                  |
-| Notification of acceptance/rejection | TBD                  |
-| Camera ready version                 | TBD                  |
-| Workshop day                         | September 30th, 2019 |
+| Submission date                      | July 14th, 2019      |
+| Notification of acceptance/rejection | August 14th, 2019    |
+| Camera ready version                 | August 21st, 2019    |
+| Workshop day                         | September 30th 2019  |
 
 
 ## <a name="programCommittee"></a> Program Committee
