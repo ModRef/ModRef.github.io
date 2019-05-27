@@ -41,11 +41,12 @@ Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to expres
 
 ## <a name="importantDates"></a> Important Dates
 
-|--------------------------------------|---------------------:|
-| Submission date                      | July 14th, 2019      |
-| Notification of acceptance/rejection | August 14th, 2019    |
-| Camera ready version                 | August 21st, 2019    |
-| Workshop day                         | September 30th 2019  |
+|------------------------------------------|---------------------:|
+| Submission date                          | July 14th, 2019      |
+| **Notification of acceptance/rejection** | July 17th, 2019      |
+| Full paper reviews                       | August 14th, 2019    |
+| Camera ready version                     | August 21st, 2019    |
+| Workshop day                             | September 30th 2019  |
 
 
 ## <a name="programCommittee"></a> Program Committee
