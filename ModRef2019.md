@@ -42,7 +42,7 @@ Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to expres
 
 |------------------------------------------|---------------------:|
 | ~~Submission date~~                      | ~~July 14th, 2019~~  |
-| Notification of acceptance/rejection (for papers submitted before July 14th) | July 17th, 2019      |
+| Notification of acceptance/rejection (for papers submitted *before July 14th*) | July 17th, 2019      |
 | **Extended Submission date**             | **July 21st, 2019**      |
 | Notification and submission reviews      | August 14th, 2019    |
 | Camera ready version                     | August 21st, 2019    |
