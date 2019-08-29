@@ -47,7 +47,7 @@ Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to expres
 | ~~Notification of acceptance/rejection (for papers submitted *before July 14th*)~~ | ~~July 17th, 2019~~ |
 | ~~**Extended Submission date**~~         | ~~**July 21st, 2019**~~ |
 | ~~Notification and submission reviews~~  | ~~August 14th, 2019~~ |
-| Camera ready version                     | August 21st, 2019    |
+| ~~Camera ready version~~                 | ~~August 21st, 2019~~ |
 | Workshop day                             | September 30th 2019  |
 
 
@@ -58,7 +58,6 @@ Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to expres
 | Kevin Leo (Chair)             | Monash University |
 | Alan Frisch                   | University of York |
 | Andrea Rendl                  | Satalia |
-| Christopher Jefferson         | University of St. Andrews |
 | Helmut Simonis                | The Insight Centre for Data Analytics |
 | Jimmy Lee                     | Chinese University of Hong Kong |
 | Özgür Akgün                   | University of St. Andrews |
