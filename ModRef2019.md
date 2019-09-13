@@ -69,7 +69,7 @@ The program will be outlined here closer to the workshop day.
 
 | Time | Authors | Title |
 |------| ------- | ----- |
-| 09:00 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork | <!-- [(slides)](slides/...pdf)  |-->
+| 09:00 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork |
 | 09:30 | *Invited Talk:* Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling |
 | 10:30 | *Coffee Break* | |
 | 11:00 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems |
