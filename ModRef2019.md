@@ -67,18 +67,18 @@ Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to expres
 
 | Time | Authors | Title |
 |------| ------- | ----- |
-| 09:00 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork |
+| 09:00 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork [(paper)](papers/ModRef2019_State Representation and Polyomino Placement for the Game Patchwork.pdf) |
 | 09:30 | *Invited Talk:* Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling |
 | *10:30* | *Coffee Break* | |
-| 11:00 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems |
-| 11:30 | Tias Guns | Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example |
-| 12:00 | Avi Itzhakov and Michael Codish | Incremental Symmetry Breaking Constraints for Graph Search Problems |
+| 11:00 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems [(paper)](papers/ModRef2019_Modelling and Solving Online Optimisation Problems.pdf) |
+| 11:30 | Tias Guns | Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example [(paper)](papers/ModRef2019_Increasing modeling language convenience with a universal n-dimensional array.pdf) |
+| 12:00 | Avi Itzhakov and Michael Codish | Incremental Symmetry Breaking Constraints for Graph Search Problems [(paper)](papers/ModRef2019_Incremental Symmetry Breaking Constraints for Graph Search Problems.pdf) |
 | *12:30* | *Lunch break* | | 
-| 14:00 | Neng-Fa Zhou | In  Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem |
+| 14:00 | Neng-Fa Zhou | In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem [(paper)](papers/ModRef2019_In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem.pdf) |
 | 14:30 | *Invited Talk:* Nina Narodytska | In Search for a SAT-friendly Binarized Neural Network Architecture |
 | *15:30* | *Coffee Break* | |
-| 16:00 | Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Jordi Coll | Towards Lifted Encodings for Numeric Planning in Essence Prime |
-| 16:30 | Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel | Towards Improving Solution Dominance with Incomparability Conditions |
+| 16:00 | Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Jordi Coll | Towards Lifted Encodings for Numeric Planning in Essence Prime [(paper)](papers/ModRef2019_Towards Lifted Encodings for Numeric Planning in Essence Prime.pdf) |
+| 16:30 | Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel | Towards Improving Solution Dominance with Incomparability Conditions [(paper)](papers/ModRef2019_Towards Improving Solution Dominance with Incomparability Conditions.pdf) |
 | *17:00* | *End of workshop* |
 
 
