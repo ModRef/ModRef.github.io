@@ -78,7 +78,7 @@ Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to expres
 | 14:30 | *Invited Talk:* Nina Narodytska | In Search for a SAT-friendly Binarized Neural Network Architecture |
 | *15:30* | *Coffee Break* | |
 | 16:00 | Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Jordi Coll | Towards Lifted Encodings for Numeric Planning in Essence Prime [(paper)](papers/ModRef2019_Towards Lifted Encodings for Numeric Planning in Essence Prime.pdf) |
-| 16:30 | Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel | Towards Improving Solution Dominance with Incomparability Conditions [(paper)](papers/ModRef2019_Towards Improving Solution Dominance with Incomparability Conditions.pdf) |
+| 16:30 | Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel | Towards Improving Solution Dominance with Incomparability Conditions [(paper)](papers/ModRef2019_Towards Improving Solution Dominance with Incomparability Conditions A case-study using Generator Itemset Mining.pdf) |
 | *17:00* | *End of workshop* |
 
 
