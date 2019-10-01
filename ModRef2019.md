@@ -67,11 +67,11 @@ Please feel free to [get in touch](mailto:michael.morin@osd.ulaval.ca) to expres
 
 | Time | Authors | Title |
 |------| ------- | ----- |
-| 09:00 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork [(paper)](papers/ModRef2019_State Representation and Polyomino Placement for the Game Patchwork.pdf) |
-| 09:30 | *Invited Talk:* Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling |
+| 09:00 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork [(paper)](papers/ModRef2019_State Representation and Polyomino Placement for the Game Patchwork.pdf)|
+| 09:30 | *Invited Talk:* Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling [(slides)](slides/ModRef2019_Slides_Combinatorial Register Allocation and Instruction Scheduling.pdf) |
 | *10:30* | *Coffee Break* | |
 | 11:00 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems [(paper)](papers/ModRef2019_Modelling and Solving Online Optimisation Problems.pdf) |
-| 11:30 | Tias Guns | Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example [(paper)](papers/ModRef2019_Increasing modeling language convenience with a universal n-dimensional array.pdf) |
+| 11:30 | Tias Guns | Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example [(paper)](papers/ModRef2019_Increasing modeling language convenience with a universal n-dimensional array.pdf) [(slides)](slides/ModRef2019_Slides_Increasing modeling language convenience CPpy.pdf) |
 | 12:00 | Avi Itzhakov and Michael Codish | Incremental Symmetry Breaking Constraints for Graph Search Problems [(paper)](papers/ModRef2019_Incremental Symmetry Breaking Constraints for Graph Search Problems.pdf) |
 | *12:30* | *Lunch break* | | 
 | 14:00 | Neng-Fa Zhou | In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem [(paper)](papers/ModRef2019_In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem.pdf) |
