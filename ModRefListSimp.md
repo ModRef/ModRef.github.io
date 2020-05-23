@@ -1,14 +1,23 @@
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
-| 2018	| Michele Lombardi | Empirical Decision Model Learning | Invited |
-| 2018	| Özgür Akgün and Ian Miguel |	Modelling Langford's Problem: A Viewpoint for Search | Paper |
-| 2018	| Ruth Hoffmann, Özgür Akgün and Susmit Sarkar	| Memory Consistency Models using Constraints | Paper |
-| 2018	| Andrea Rendl and Christina Burt	| Demand-driven Delivery Staff Rostering | Paper |
-| 2018	| Helmut Simonis	| Considering Feedback Loops in Constraint Programming Methodology | Invited |
-| 2018	| Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis	| A Transducer-Based Model for Representing Functional Constraints on Integer Sequences | Paper |
-| 2018	| Tias Guns, Peter J. Stuckey and Guido Tack	| Solution Dominance over Constraint Satisfaction Problems | Paper |
-| 2018	| Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |	Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets | Paper |
-| 2018	| Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey	| A Study of Evacuation Planning for Wildfires | Paper |
+| 2019 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork | Paper |
+| 2019 | Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling | Invited |
+| 2019 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems | Paper |
+| 2019 | Tias Guns | Increasing modeling language convenience with a universal n-dimensional array, CPpy as python-embedded example | Paper |
+| 2019 | Avi Itzhakov and Michael Codish | Incremental Symmetry Breaking Constraints for Graph Search Problems | Paper |
+| 2019 | Neng-Fa Zhou | In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem | Paper |
+| 2019 | Nina Narodytska | In Search for a SAT-friendly Binarized Neural Network Architecture | Invited |
+| 2019 | Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Jordi Coll | Towards Lifted Encodings for Numeric Planning in Essence Prime | Paper |
+| 2019 | Gökberk Koçak, Özgür Akgün, Tias Guns and Ian Miguel | Towards Improving Solution Dominance with Incomparability Conditions | Paper |
+| 2018 | Michele Lombardi | Empirical Decision Model Learning | Invited |
+| 2018 | Özgür Akgün and Ian Miguel |  Modelling Langford's Problem: A Viewpoint for Search | Paper |
+| 2018 | Ruth Hoffmann, Özgür Akgün and Susmit Sarkar  | Memory Consistency Models using Constraints | Paper |
+| 2018 | Andrea Rendl and Christina Burt | Demand-driven Delivery Staff Rostering | Paper |
+| 2018 | Helmut Simonis  | Considering Feedback Loops in Constraint Programming Methodology | Invited |
+| 2018 | Ekaterina Arafailova, Nicolas Beldiceanu, Mats Carlsson, Rémi Douence, María Andreína Francisco Rodríguez and Helmut Simonis  | A Transducer-Based Model for Representing Functional Constraints on Integer Sequences | Paper |
+| 2018 | Tias Guns, Peter J. Stuckey and Guido Tack  | Solution Dominance over Constraint Satisfaction Problems | Paper |
+| 2018 | Saad Attieh, Christopher Jefferson, Ian Miguel and Peter Nightingale |  Towards Solving Essence With Local Search: a Proof of Concept Using Sets and Multisets | Paper |
+| 2018 | Christian Artigues, Emmanuel Hebrard, Yannick Pencolé, Andreas Schutt and Peter J. Stuckey  | A Study of Evacuation Planning for Wildfires | Paper |
 | 2017 | Peter Stuckey                              | Ten Years of MiniZinc | Invited |
 | 2017 | Thibaut Feydy, Adrian Goldwaser, Andreas Schutt, Peter J. Stuckey and Kenneth Young | Priority Search with MiniZinc | Paper |
 | 2017 | Jessica Enright, Christopher Jefferson, David Manlove, Ciaran McCreesh, Patrick Prosser, Simon Rogers and James Trimble | Modelling and Optimisation with Graphs | Short |
