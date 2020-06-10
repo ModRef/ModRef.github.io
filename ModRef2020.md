@@ -38,7 +38,7 @@ In addition to the short form abstract only submissions we are also accepting fu
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2020. Accepted contributions will be allowed a time slot for a presentation at the workshop. At least one author of each accepted paper must attend and present at the workshop. Please note that every workshop participant needs to be registered for the workshop.
 
-Please feel free to [get in touch](mailto:jea20@st-andrews.ac.uk) to express interest, to have an informal discussion, etc.
+Please feel free to [get in touch](mailto:jea20 at_symbol st-andrews.ac.uk) to express interest, to have an informal discussion, etc.
 
 ## <a name="importantDates"></a> Important Dates
 
@@ -57,8 +57,8 @@ Please feel free to [get in touch](mailto:jea20@st-andrews.ac.uk) to express int
 | Özgür Akgün                   | University of St. Andrews |
 | Kevin Leo              | Monash University |
 | Alan Frisch                   | University of York |
-(more TBC)
 
+(more TBC)
 
 
 ## <a name="timetable"></a> Program (September 7th, 2020)
