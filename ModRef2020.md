@@ -28,11 +28,11 @@ Workshop topics include:
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
 
-## <a name="callForPres"></a> Call for Presentations (Deadline: July 30, 2020)
+## <a name="callForPres"></a> Call for Presentations
 This year ModRef will again include presentations that are not based on submitted papers. In addition to the presentation of research results, we especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. Lightweight submissions must be in the form of a one (1) or two (2) pages extended abstract (excluding references) in the Lecture Notes in Computer Science (LNCS) style.
 <!--- Please submit your extended abstract in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2019). --->
 
-## <a name="callForPapers"></a> Call for Papers (Deadline: July 30, 2020)
+## <a name="callForPapers"></a> Call for Papers 
 In addition to the short form abstract only submissions we are also accepting full paper submissions. These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references. Submissions of shorter papers, including position papers, are also welcome.
 <!--- Please submit your paper in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2019). --->
 
@@ -43,10 +43,11 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|---------------------:|
-| Submission date                      | July 30, 2020  |
-| Notification of acceptance/rejection | August 7, 2020 |
+| Abstract submission                      | **July 23rd, 2020**  |
+| Final submission (extended abstract/full paper)                     | **July 29th, 2020**  |
+| Notification of acceptance/rejection | **August 7th, 2020** |
 | Camera ready version                 | TBC |
-| Workshop day                             | September 7, 2020  |
+| Workshop day                             | **September 7th, 2020**  |
 
 
 ## <a name="programCommittee"></a> Program Committee
