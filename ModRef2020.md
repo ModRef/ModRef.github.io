@@ -58,7 +58,7 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 | Özgür Akgün                   | University of St. Andrews |
 | Kevin Leo              | Monash University |
 | Alan Frisch   | University of York |
-| MateuVillaret | Universitat de Girona |
+| Mateu Villaret | Universitat de Girona |
 | Peter Nightingale    | University of St. Andrews |
 | Christopher Jefferson  | University of St. Andrews |
 
