@@ -61,6 +61,9 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 | Mateu Villaret | Universitat de Girona |
 | Peter Nightingale    | University of St. Andrews |
 | Christopher Jefferson  | University of St. Andrews |
+| Michael Morin  | Université Laval |
+| Zeynep Kiziltan |  University of Bologna |
+| María Andreína Francisco Rodríguez | Uppsala University |
 
 (more TBC)
 
