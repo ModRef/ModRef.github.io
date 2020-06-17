@@ -64,6 +64,7 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 | Michael Morin  | Université Laval |
 | Zeynep Kiziltan |  University of Bologna |
 | María Andreína Francisco Rodríguez | Uppsala University |
+| Jordi Coll | Universitat de Girona |
 
 (more TBC)
 
