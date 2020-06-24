@@ -68,6 +68,7 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 | Özgür Akgün                   | University of St. Andrews |
 | Ken Brown | University College Cork |
 | Emir Demirović | Delft University of Technology |
+| Jimmy Ho Man Lee | The Chinese University of Hong Kong |
 
 <!-- (more TBC) -->
 
