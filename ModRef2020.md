@@ -30,11 +30,11 @@ Workshop topics include:
 
 ## <a name="callForPres"></a> Call for Presentations
 This year ModRef will again include presentations that are not based on submitted papers. In addition to the presentation of research results, we especially welcome talks describing ongoing work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems. Lightweight submissions must be in the form of a one (1) or two (2) pages extended abstract (excluding references) in the Lecture Notes in Computer Science (LNCS) style.
-<!--- Please submit your extended abstract in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2019). --->
+Please submit your extended abstract in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2020). 
 
 ## <a name="callForPapers"></a> Call for Papers 
 In addition to the short form abstract only submissions we are also accepting full paper submissions. These must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be within 15 pages excluding references. Submissions of shorter papers, including position papers, are also welcome.
-<!--- Please submit your paper in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2019). --->
+Please submit your paper in PDF format using [EasyChair](https://easychair.org/conferences/?conf=modref2020).
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2020. Accepted contributions will be allowed a time slot for a presentation at the workshop. At least one author of each accepted paper must attend and present at the workshop. Please note that every workshop participant needs to be registered for the workshop.
 
@@ -55,18 +55,21 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 |-------------------------------|------------------:|
 | Joan Espasa Arxer (Chair)         | University of St. Andrews |
 | Nguyen Dang (Chair)         | University of St. Andrews |
-| Özgür Akgün                   | University of St. Andrews |
 | Kevin Leo              | Monash University |
 | Alan Frisch   | University of York |
 | Mateu Villaret | Universitat de Girona |
-| Peter Nightingale    | University of St. Andrews |
+| Peter Nightingale    | University of York |
 | Christopher Jefferson  | University of St. Andrews |
 | Michael Morin  | Université Laval |
 | Zeynep Kiziltan |  University of Bologna |
 | María Andreína Francisco Rodríguez | Uppsala University |
 | Jordi Coll | Universitat de Girona |
+| Ciaran McCreesh | University of Glasgow |
+| Özgür Akgün                   | University of St. Andrews |
+| Ken Brown | University College Cork |
+| Emir Demirović | Delft University of Technology |
 
-(more TBC)
+<!-- (more TBC) -->
 
 
 ## <a name="timetable"></a> Program (September 7th, 2020)
