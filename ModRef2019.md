@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Layout2018
 title: ModRef 2019
 redirect_from: "/"
 ---
