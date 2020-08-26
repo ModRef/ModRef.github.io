@@ -77,7 +77,7 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 |------| ------- | ----- |
 | 13:00 | *Invited talk:* Maria Garcia de la Banda | Rethinking model reformulation: from speed focused to human focused |
 | 13:45 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure|
-| 14:00 | Mikael Z. Lagerkvist and Magnus  | Half-checking propagators |
+| 14:00 | Mikael Z. Lagerkvist and Magnus Rattfeldt | Half-checking propagators |
 | 14:15 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving |
 | 14:00 | *Break* | |
 | 15:00 | Vitaly Lagoon | Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine |
