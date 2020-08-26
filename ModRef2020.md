@@ -73,24 +73,24 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 
 ## <a name="timetable"></a> Tentative Program (September 7th, 2020)
 
+To attend the workshop, you can [register](https://whova.com/portal/registration/cp_202009/) for CP2020 (free) and access the Workshop session via [CP's Online platform](https://whova.com/portal/webapp/cp_202009/).
+
 | Time (CEST) | Authors | Title |
 |------| ------- | ----- |
 | 13:00 | *Invited talk:* Maria Garcia de la Banda | Rethinking model reformulation: from speed focused to human focused |
-| 13:45 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure|
-| 14:00 | Mikael Z. Lagerkvist and Magnus  | Half-checking propagators |
-| 14:15 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving |
+| 13:45 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure [(paper)](papers/ModRef2020_Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure.pdf)|
+| 14:00 | Mikael Z. Lagerkvist and Magnus  | Half-checking propagators [(paper)](papers/ModRef2020_Half-checking propagators.pdf)|
+| 14:15 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving [(paper)](papers/ModRef2020_Efficient Incremental Modelling and Solving.pdf)|
 | 14:00 | *Break* | |
-| 15:00 | Vitaly Lagoon | Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine |
-| 15:15 | Federico Toffano, Nic Wilson and Paolo Viappiani | Efficient Exact Computation of Setwise Minimax Regret|
-| 15:30 | Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone | Exploring Instance Generation for Automated Planning |
+| 15:00 | Vitaly Lagoon | Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine [(paper)](papers/ModRef2020_Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine.pdf)|
+| 15:15 | Federico Toffano, Nic Wilson and Paolo Viappiani | Efficient Exact Computation of Setwise Minimax Regret [(paper)](papers/ModRef2020_Efficient Exact Computation of Setwise Minimax Regret.pdf)|
+| 15:30 | Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone | Exploring Instance Generation for Automated Planning [(paper)](papers/ModRef2020_Exploring Instance Generation for Automated Planning.pdf) |
 | 15:45 | *Break* | |
 | 16:15 | *Invited talk:* Tias Guns | TBA |
-| 17:00 | Maria Andreina Francisco Rodriguez and Ola Spjuth | A Constraint Programming Approach to Microplate Layout Design |
-| 17:15 | Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt | Modelling the Conference Paper Assignment Problem |
-| 17:30 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem |
+| 17:00 | Maria Andreina Francisco Rodriguez and Ola Spjuth | A Constraint Programming Approach to Microplate Layout Design [(paper)](papers/ModRef2020_A Constraint Programming Approach to Microplate Layout Design.pdf) |
+| 17:15 | Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt | Modelling the Conference Paper Assignment Problem [(paper)](papers/ModRef2020_Modelling the Conference Paper Assignment Problem.pdf) |
+| 17:30 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [(paper)](papers/ModRef2020_Towards Portfolios of Streamlined Constraint Models.pdf) |
 | *17:45* | *End of workshop* |
-
-To attend the workshop, you can [register](https://whova.com/portal/registration/cp_202009/) for CP2020 (free) and access the Workshop session via [CP's Online platform](https://whova.com/portal/webapp/cp_202009/).
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 19 years and has hosted many interesting presentations.
