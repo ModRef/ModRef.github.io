@@ -81,7 +81,7 @@ To attend the workshop, you can [register](https://whova.com/portal/registration
 | 13:45 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure [(paper)](papers/ModRef2020_Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure.pdf)|
 | 14:00 | Mikael Z. Lagerkvist and Magnus  | Half-checking propagators [(paper)](papers/ModRef2020_Half-checking propagators.pdf)|
 | 14:15 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving [(paper)](papers/ModRef2020_Efficient Incremental Modelling and Solving.pdf)|
-| 14:00 | *Break* | |
+| 14:30 | *Break* | |
 | 15:00 | Vitaly Lagoon | Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine [(paper)](papers/ModRef2020_Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine.pdf)|
 | 15:15 | Federico Toffano, Nic Wilson and Paolo Viappiani | Efficient Exact Computation of Setwise Minimax Regret [(paper)](papers/ModRef2020_Efficient Exact Computation of Setwise Minimax Regret.pdf)|
 | 15:30 | Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone | Exploring Instance Generation for Automated Planning [(paper)](papers/ModRef2020_Exploring Instance Generation for Automated Planning.pdf) |
