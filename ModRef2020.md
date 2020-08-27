@@ -79,7 +79,7 @@ To attend the workshop, you can [register](https://whova.com/portal/registration
 |------| ------- | ----- |
 | 13:00 | *Invited talk:* Maria Garcia de la Banda | Rethinking model reformulation: from speed focused to human focused |
 | 13:45 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure [(paper)](papers/ModRef2020_Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure.pdf)|
-| 14:00 | Mikael Z. Lagerkvist and Magnus  | Half-checking propagators [(paper)](papers/ModRef2020_Half-checking propagators.pdf)|
+| 14:00 | Mikael Z. Lagerkvist and Magnus Rattfeldt | Half-checking propagators [(paper)](papers/ModRef2020_Half-checking propagators.pdf)|
 | 14:15 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving [(paper)](papers/ModRef2020_Efficient Incremental Modelling and Solving.pdf)|
 | 14:30 | *Break* | |
 | 15:00 | Vitaly Lagoon | Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine [(paper)](papers/ModRef2020_Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine.pdf)|
