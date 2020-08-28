@@ -77,7 +77,7 @@ To attend the workshop, you can [register](https://whova.com/portal/registration
 
 | Time (CEST) | Authors | Title |
 |------| ------- | ----- |
-| 13:00 | *Invited talk:* Maria Garcia de la Banda | Rethinking model reformulation: from speed focused to human focused |
+| 13:00 | *Invited talk:* Maria Garcia de la Banda | Rethinking Model Reformulation: from Speed focused to Human focused |
 | 13:45 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure [(paper)](papers/ModRef2020_Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure.pdf)|
 | 14:00 | Mikael Z. Lagerkvist and Magnus Rattfeldt | Half-checking propagators [(paper)](papers/ModRef2020_Half-checking propagators.pdf)|
 | 14:15 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving [(paper)](papers/ModRef2020_Efficient Incremental Modelling and Solving.pdf)|
@@ -86,7 +86,7 @@ To attend the workshop, you can [register](https://whova.com/portal/registration
 | 15:15 | Federico Toffano, Nic Wilson and Paolo Viappiani | Efficient Exact Computation of Setwise Minimax Regret [(paper)](papers/ModRef2020_Efficient Exact Computation of Setwise Minimax Regret.pdf)|
 | 15:30 | Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone | Exploring Instance Generation for Automated Planning [(paper)](papers/ModRef2020_Exploring Instance Generation for Automated Planning.pdf) |
 | 15:45 | *Break* | |
-| 16:15 | *Invited talk:* Tias Guns | TBA |
+| 16:15 | *Invited talk:* Tias Guns | Hybrid Prediction and Constraint Solving |
 | 17:00 | Maria Andreina Francisco Rodriguez and Ola Spjuth | A Constraint Programming Approach to Microplate Layout Design [(paper)](papers/ModRef2020_A Constraint Programming Approach to Microplate Layout Design.pdf) |
 | 17:15 | Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt | Modelling the Conference Paper Assignment Problem [(paper)](papers/ModRef2020_Modelling the Conference Paper Assignment Problem.pdf) |
 | 17:30 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [(paper)](papers/ModRef2020_Towards Portfolios of Streamlined Constraint Models.pdf) |
