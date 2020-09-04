@@ -92,7 +92,8 @@ To attend the workshop, you can [register](https://whova.com/portal/registration
 | 17:30 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [(paper)](papers/ModRef2020_Towards Portfolios of Streamlined Constraint Models.pdf) |
 | *17:45* | *End of workshop* |
 
-This year we are honored to host the following invited talks:
+## <a name="invtalks"></a> Invited Talks
+This year we are honored to host the two following invited talks:
 
 ### Maria Garcia de la Banda - Rethinking Model Reformulation: from Speed focused to Human focused
 
