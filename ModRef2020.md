@@ -92,6 +92,48 @@ To attend the workshop, you can [register](https://whova.com/portal/registration
 | 17:30 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [(paper)](papers/ModRef2020_Towards Portfolios of Streamlined Constraint Models.pdf) |
 | *17:45* | *End of workshop* |
 
+## <a name="invspeakers"></a> Invited Talks
+
+### Maria Garcia de la Banda - Rethinking Model Reformulation: from Speed focused to Human focused
+
+Maria Garcia de la Banda is a Professor at the Faculty of Information
+Technology, at Monash University and has more than 25 years of experience as an
+academic.  Prof. Garcia de la Banda’s PhD won the Universidad Politécnica de
+Madrid’s Best PhD Award. She was awarded the first and only prestigious Logan
+Fellowship, a role she held for 6 years.  She has been an elected member of the
+Executive Committee of the Association of Logic Programming, and of the
+Association for Constraint Programming, of which she is currently president.
+
+Prof. Garcia de la Banda has extensive research experience in the modelling and
+solving of combinatorial problems, with particular emphasis on the
+(semi-)automatic analysis and transformation of constraint programming models.
+In 2005 she jointly won the International Constraint Modelling Challenge.
+During her career she has kept her feet on the ground, being involved in
+transferring her expertise to a long list of real-world applications.
+
+### Tias Guns - Hybrid Prediction and Constraint Solving
+
+Tias Guns is Assistant Professor at the Vrije Universiteit Brussel (VUB), in
+the Business, Technology and Operations lab of the faculty of Economic and
+Social Sciences & Solvay Business School. His research lies on the border
+between data mining and constraint programming, and his main interest is in
+integrating domain expertise and user constraints into data analytics tasks. As
+part of his PhD, he has developed the CP4IM framework which showed for the
+first time the potential of using constraint programming for pattern mining.
+His PhD was awarded with both the constraint programming dissertation award and
+the ECCAI artificial intelligence dissertation award. He is an active member of
+the community and has organized a number of workshops and a special issue on
+the topic of combining constraint programming with machine learning and data
+mining.
+
+*Abstract*: Increasingly, the knowledge needed to formulate constraint solving
+problems is not explicitly written down. Instead, we have to infer part of the
+knowledge implicitely from the users, (such as preferences), or through
+perception (image recognition) or the environment (price predictions). In this
+task I motivate this change in requirements and the challenges it poses with
+respect to modeling and (re)formulating such data-driven constraint solving
+problems.
+
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 19 years and has hosted many interesting presentations.
 
