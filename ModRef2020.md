@@ -71,7 +71,7 @@ Please feel free to get in touch (jea20\[at_symbol\]st-andrews.ac.uk or nttd\[at
 | Jimmy Ho Man Lee | The Chinese University of Hong Kong |
 
 
-## <a name="timetable"></a> Tentative Program (September 7th, 2020)
+## <a name="timetable"></a> Program (September 7th, 2020)
 
 To attend the workshop, you can [register](https://whova.com/portal/registration/cp_202009/) for CP2020 (free) and access the Workshop session via [CP's Online platform](https://whova.com/portal/webapp/cp_202009/).
 
