@@ -89,7 +89,7 @@ To attend the workshop, you can [register](https://whova.com/portal/registration
 | 16:15 | *Invited talk:* Tias Guns | Hybrid Prediction and Constraint Solving |
 | 17:00 | Maria Andreina Francisco Rodriguez and Ola Spjuth | A Constraint Programming Approach to Microplate Layout Design [(paper)](papers/ModRef2020_A Constraint Programming Approach to Microplate Layout Design.pdf) [(video)](https://www.youtube.com/watch?v=naddH2TQIjE) |
 | 17:15 | Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt | Modelling the Conference Paper Assignment Problem [(paper)](papers/ModRef2020_Modelling the Conference Paper Assignment Problem.pdf) [(video)](https://www.youtube.com/watch?v=lYIMaCj4Hto) |
-| 17:30 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [(paper)](papers/ModRef2020_Towards Portfolios of Streamlined Constraint Models.pdf) [(video)]() |
+| 17:30 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem [(paper)](papers/ModRef2020_Towards Portfolios of Streamlined Constraint Models.pdf) [(video)](https://www.youtube.com/watch?v=WtDwVyf7Gmw) |
 | *17:45* | *End of workshop* |
 
 ## <a name="invtalks"></a> Invited Talks
