@@ -1,5 +1,16 @@
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
+| 2020 | Maria Garcia de la Banda | Rethinking Model Reformulation: from Speed focused to Human focused | Invited |
+| 2020 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure | Paper |
+| 2020 | Mikael Z. Lagerkvist and Magnus Rattfeldt | Half-checking propagators | Paper |
+| 2020 | Gökberk Koçak, Özgür Akgün, Nguyen Dang and Ian Miguel | Efficient Incremental Modelling and Solving | Paper |
+| 2020 | Vitaly Lagoon and Amit Metodi| Deriving Optimal Multiplication-by-Constant Circuits With A SAT-based Constraint Engine | Paper |
+| 2020 | Federico Toffano, Nic Wilson and Paolo Viappiani | Efficient Exact Computation of Setwise Minimax Regret | Paper |
+| 2020 | Özgür Akgün, Nguyen Dang, Joan Espasa, Ian Miguel, András Salamon and Christopher Stone | Exploring Instance Generation for Automated Planning | Paper |
+| 2020 | Tias Guns | Hybrid Prediction and Constraint Solving  | Invited |
+| 2020 | Maria Andreina Francisco Rodriguez and Ola Spjuth | A Constraint Programming Approach to Microplate Layout Design | Paper |
+| 2020 | Helmut Simonis, Simon de Givry, Thomas Schiex and Andreas Schutt | Modelling the Conference Paper Assignment Problem | Paper |
+| 2020 | Patrick Spracklen, Nguyen Dang, Özgür Akgün and Ian Miguel | Towards Portfolios of Streamlined Constraint Models: A Case Study with the Balanced Academic Curriculum Problem | Paper |
 | 2019 | Mikael Zayenz Lagerkvist | State Representation and Polyomino Placement for the Game Patchwork | Paper |
 | 2019 | Christian Schulte | Combinatorial Register Allocation and Instruction Scheduling | Invited |
 | 2019 | Alexander Ek, Maria Garcia De La Banda, Andreas Schutt, Peter J. Stuckey and Guido Tack | Modelling and Solving Online Optimisation Problems | Paper |
