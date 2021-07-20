@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ModRef 2020
-redirect_from: "/"
 ---
 
 ModRef 2020 is the 19th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
