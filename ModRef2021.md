@@ -60,7 +60,7 @@ up with some neat ideas.
 | Final submission (extended abstract/full paper)                     | **September 2nd, 2021**  |
 | Notification of acceptance/rejection | **September 13th, 2021** |
 | Camera ready version                 | **September 30th, 2021** |
-| Workshop day                             | **October 24th, 2021**  |
+| Workshop day                             | **October 25th, 2021**  |
 
 
 ## <a name="programCommittee"></a> Program Committee
@@ -72,7 +72,7 @@ up with some neat ideas.
 
 
 
-## <a name="timetable"></a> Program (October 24th, 2021)
+## <a name="timetable"></a> Program (October 25th, 2021)
 
 To be confirmed
 
