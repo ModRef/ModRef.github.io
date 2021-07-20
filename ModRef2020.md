@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Layout2020
 title: ModRef 2020
 ---
 
