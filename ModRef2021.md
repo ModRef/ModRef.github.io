@@ -68,8 +68,19 @@ up with some neat ideas.
 |-------------------------------|------------------|
 | Emir Demirović (Chair)        | TU Delft         | 
 | Graeme Gange (Chair)          | Monash University |
-| TBA                           | TBA |
-
+| Joan Espasa Arxer | University of St. Andrews |
+| Nguyen Dang | University of St. Andrews |
+| Kevin Leo | Monash University |
+| Alan Frisch | University of York |
+| Mateu Villaret | Universitat de Girona |
+| Peter Nightingale | University of York |
+| Michael Morin | Université Laval |
+| Zeynep Kiziltan | University of Bologna |
+| María Andreína Francisco Rodríguez | Uppsala University |
+| Ciaran McCreesh | University of Glasgow |
+| Özgür Akgün | University of St. Andrews |
+| Ken Brown | University College Cork |
+| TBA | TBA |
 
 
 ## <a name="timetable"></a> Program (October 25th, 2021)
@@ -78,6 +89,7 @@ To be confirmed
 
 | Time (CEST) | Authors | Title |
 |------| ------- | ----- |
+|      |         |       |
 
 ## <a name="invtalks"></a> Invited Talks
 This year, once again we plan to host some electrifying invited talks... which are as yet TBA. Watch this space!
