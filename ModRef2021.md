@@ -92,7 +92,11 @@ To be confirmed
 |      |         |       |
 
 ## <a name="invtalks"></a> Invited Talks
-This year, once again we plan to host some electrifying invited talks... which are as yet TBA. Watch this space!
+This year, once again we plan to host a pair of electrifying invited talks:
+
+### **Torsten Schaub** (Universität Potsdam) - Answer Set Programming
+
+### **Bart Bogaerts** (Vrije Universiteit Brussel) - The IDP system
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 20 years and has hosted many interesting presentations.
