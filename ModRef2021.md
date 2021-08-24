@@ -64,8 +64,9 @@ describing the main idea of your talk.
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|---------------------:|
-| Abstract submission                      | **August 23rd, 2021**  |
-| Final submission (extended abstract/full paper/lightning talk)                     | **September 2nd, 2021**  |
+| Abstract submission                      | ~~August 23rd, 2021~~  |
+| Lightning talk proposals                  | **September 2nd, 2021**  |
+| Final submission (extended abstract/full paper)                     | **September 2nd, 2021**  |
 | Notification of acceptance/rejection | **September 13th, 2021** |
 | Camera ready version                 | **September 30th, 2021** |
 | Workshop day                             | **October 25th, 2021**  |
