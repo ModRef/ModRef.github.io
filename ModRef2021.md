@@ -90,7 +90,7 @@ For questions about the workshop, please contact the chairs Dr. Emir Demirović 
 | Ciaran McCreesh | University of Glasgow |
 | Özgür Akgün | University of St. Andrews |
 | Ken Brown | University College Cork |
-| TBA | TBA |
+| Jimmy H.M. Lee | Chinese University of Hong Kong |
 
 
 ## <a name="timetable"></a> Program (October 25th, 2021)
