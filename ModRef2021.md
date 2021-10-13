@@ -65,10 +65,10 @@ describing the main idea of your talk.
 
 |------------------------------------------|---------------------:|
 | Abstract submission                      | ~~August 23rd, 2021~~  |
-| Lightning talk proposals                  | **September 2nd, 2021**  |
-| Final submission (extended abstract/full paper)                     | **September 2nd, 2021**  |
-| Notification of acceptance/rejection | **September 13th, 2021** |
-| Camera ready version                 | **September 30th, 2021** |
+| Lightning talk proposals                  | ~~September 2nd, 2021~~  |
+| Final submission (extended abstract/full paper)                     | ~~September 2nd, 2021~~  |
+| Notification of acceptance/rejection | ~~September 13th, 2021~~ |
+| Camera ready version                 | ~~September 30th, 2021~~ |
 | Workshop day                             | **October 25th, 2021**  |
 
 For questions about the workshop, please contact the chairs Dr. Emir Demirović and Dr. Graeme Gange: <modref2021@tudelft.nl>
@@ -95,11 +95,21 @@ For questions about the workshop, please contact the chairs Dr. Emir Demirović 
 
 ## <a name="timetable"></a> Program (October 25th, 2021)
 
-To be confirmed
-
 | Time (CEST) | Authors | Title |
 |------| ------- | ----- |
-|      |         |       |
+| 08:45 |  | Welcome |
+| 09:00 | *Invited talk:* Torsten Schaub | Answer-set Programming in a Nutshell |
+| 10:00 | Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker | Selecting SAT Encodings for Pseudo-Boolean and Linear Constraints: Preliminary Results  [(paper)](papers/ModRef2021_SAT-PBLinear.pdf) |
+| 10:20 | Peter J. Stuckey and Guido Tack | Enumerated Types, Type Extensions and Defaults for MiniZinc [(paper)](papers/ModRef2021_MiniZincEnumeratedTypes.pdf) |
+| 10:40 | Sophia Saller and Jana Koehler | Easy, adaptable and high-quality Modelling with Domain-Specific Constraint Patterns [(paper)](papers/ModRef2021_ModellingConstraintPatterns.pdf) |
+| 11:00 | *Break* | |
+| 11:15 | *Invited talk:* Bart Bogaerts | Predicate Logic as a Modelling Language: The IDP System |
+| 12:15 | Jordi Coll, Joan Espasa Arxer, Ian Miguel and Mateu Villaret | A preliminary Case Study of Planning With Complex Transitions: Plotting [(paper)](papers/ModRef2021_PlanningPlotting.pdf) |
+| 12:35 | Hélène Verhaeghe, Roger Kameugne, Christophe Lecoutre and Pierre Schaus | Improved Filtering of Scheduling Problems using Redundant Table Constraints [(paper)](papers/ModRef2021_SchedulingRedundantTable.pdf) |
+| 12:55 | Özgür Akgün, Alan M. Frisch, Ian P. Gent, Christopher Jefferson, Ian Miguel, Peter Nightingale and András Z. Salamon | Towards Reformulating Essence Specifications for Robustness [(paper)](papers/ModRef2021_ReformulatingEssenceRobustness.pdf) |
+| 13:15 | *Lunch Break * | |
+| 13:45 | Lightning Talks | |
+| 14:00 | Community Discussion | Integrating modelling as a component |
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 20 years and has hosted many interesting presentations.
