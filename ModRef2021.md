@@ -28,6 +28,21 @@ The main aim of the workshop is to identify recent trends in constraint modellin
 
 ### **Prof. Torsten Schaub** (Universität Potsdam, Germany) - Answer Set Programming
 
+Answer Set Programming (ASP) has become a popular approach to declarative problem solving.
+More precisely, ASP is a rule-based formalism for modeling and solving knowledge-intense combinatorial (optimization) problems.
+What makes ASP attractive is its combination of a declarative modeling language with highly effective solving engines.
+This allows us to concentrate on specifying - rather than programming the algorithm for solving - a problem at hand.
+Historically, ASP has its roots in deductive databases, logic programming, and non-monotonic reasoning;
+its solving engines draw on the same technology as solvers for satisfiability testing.
+Given this origin, ASP is tailored to support closed as well as open world reasoning,
+which makes it predestined for knowledge representation and reasoning tasks.
+Interesting applications of ASP can be found in decision support systems, industrial team-building, music composition,
+train scheduling, product and software configuration, phylogeneticics, robotics, systems biology, timetabling,
+and many more.
+
+The talk will give a gentle introduction to ASP, its logical foundations, modeling capabilities, and solving engines,
+and conclude with an outlook on the ASP's potential impact as a knowledge-driven AI tool.
+
 ### **Dr. Bart Bogaerts** (Vrije Universiteit Brussel, Belgium) - Predicate Logic as a Modelling Language: The IDP system
 
 
@@ -110,6 +125,13 @@ For questions about the workshop, please contact the chairs Dr. Emir Demirović 
 | 13:15 | *Lunch Break * | |
 | 13:45 | Lightning Talks | |
 | 14:00 | Community Discussion | Integrating modelling as a component |
+
+### Session 3: Lightning Talks & Community Discussion
+
+The last session will be a collaborative exercise to identify challenges for the next five years of modelling, with the goal of producing a
+jointly-written white/research paper to guide future research. The main topic is on *the integration of modelling as a component in larger systems*.
+This session will consist of a series of lightning talks pointing out pain-points or desired features for modelling, then a series of focussed
+discussions to identify common features, possible solutions and research directions.
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 20 years and has hosted many interesting presentations.
