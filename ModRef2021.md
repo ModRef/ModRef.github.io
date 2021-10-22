@@ -26,7 +26,7 @@ The main aim of the workshop is to identify recent trends in constraint modellin
 
 ## <a name="invtalks"></a> Invited Talks
 
-### **Prof. Torsten Schaub** (Universität Potsdam, Germany) - Answer Set Programming
+### **Prof. Torsten Schaub** (Universität Potsdam, Germany) - Answer Set Programming in a Nutshell
 
 Answer Set Programming (ASP) has become a popular approach to declarative problem solving.
 More precisely, ASP is a rule-based formalism for modeling and solving knowledge-intense combinatorial (optimization) problems.
@@ -45,6 +45,11 @@ and conclude with an outlook on the ASP's potential impact as a knowledge-driven
 
 ### **Dr. Bart Bogaerts** (Vrije Universiteit Brussel, Belgium) - Predicate Logic as a Modelling Language: The IDP system
 
+I introduce the IDP system: syntax, formal and informal semantics, and inference methods. Special attention will be devoted to
+ 1. the knowledge base system paradigm: the idea that a single knowledge base can be used for multiple inferences
+ 2. informal semantics: the idea that formal statements should correspond to their informal (natural language) reading. 
+ 3. inductive definitions, and 
+ 4. the rationale behind some design decisions in IDP. 
 
 ## <a name="callForPapers"></a> Call for Papers 
 We invite submissions of novel (ongoing) work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems related (but not limited) to the following topics:
