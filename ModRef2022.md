@@ -40,7 +40,8 @@ All submissions will be reviewed and those that are well-written and make a wort
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|-----------------------------------------:|
-| Paper Submission                         | May 10th, 2022                           |
+| Paper Abstract Submission                | May 3rd, 2022                            |
+| Paper Full Submission                    | May 10th, 2022                           |
 | Lightning talk Proposals                 | TBA                                      |
 | Notification of acceptance/rejection     | June 15th, 2022                          |
 | Camera ready version                     | July 1st, 2022                           |
