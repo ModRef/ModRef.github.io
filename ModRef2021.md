@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: Layout2021
 title: ModRef 2021
-redirect_from: "/"
 ---
 
 ModRef 2021 is the 20th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/).
