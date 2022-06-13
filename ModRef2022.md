@@ -46,7 +46,14 @@ For questions about the workshop, please contact the chairs Dr. Jip J. Dekker an
 
 ## <a name="programCommittee"></a> Program Committee
 
-**To be announced ...**
+|------------------------------------|--------------------|
+| Jip J. Dekker (Chair)              | Monash University  | 
+| Guido Tack (Chair)                 | Monash University  |
+| Emir Demirović                     | TU Delft           | 
+| María Andreína Francisco Rodríguez | Uppsala University |
+| Jimmy H.M. Lee        | Chinese University of Hong Kong |
+| Kevin Leo                          | Monash University  |
+
 
 ## <a name="timetable"></a> Program
 
