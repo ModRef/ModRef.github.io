@@ -5,7 +5,7 @@ redirect_from: "/"
 ---
 
 ModRef 2022 is the 21st in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.cs.york.ac.uk/~frisch/ModRef/) organized as part of FLoC 2022, the [Federated Logic Conference](https://www.floc2022.org/).
-It will be held in the pre-FLoC workshop block (July 31st - August 1st), preceding CP 2022, the [28th International Conference on Principles and Practice of Constraint Programming](http://cp2022.a4cp.org/).
+It will be held on July 31st, preceding CP 2022, the [28th International Conference on Principles and Practice of Constraint Programming](http://cp2022.a4cp.org/).
 
 Recent years have witnessed significant research devoted to modelling and solving problems with constraints. The importance of modelling and model reformulation is widely recognized. There have been developments in systematic and automated ways of improving aspects of modelling and model reformulation. Tools and techniques which provide the ability to target multiple kinds of solvers were also developed.
 
@@ -32,11 +32,6 @@ We also accept (and encourage) non-traditional electronic submissions, such as i
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2022. Accepted contributions will be allowed a time slot for a presentation at the workshop. At least one author of each accepted paper must attend and present at the workshop. Please note that every workshop participant needs to be registered for the workshop.
 
-
-## <a name="callForLightning"></a> Call for Lightning Talks
-
-**To be announced ...**
-
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|-----------------------------------------:|
@@ -45,7 +40,7 @@ All submissions will be reviewed and those that are well-written and make a wort
 | Lightning talk Proposals                 | TBA                                      |
 | Notification of acceptance/rejection     | June 15th, 2022                          |
 | Camera ready version                     | July 1st, 2022                           |
-| Workshop day                             | **TBA (July 31st / August 1st, 2022)**   |
+| Workshop day                             | **July 31st, 2022**                      |
 
 For questions about the workshop, please contact the chairs Dr. Jip J. Dekker and Dr. Guido Tack: <modref@a4cp.org>
 
