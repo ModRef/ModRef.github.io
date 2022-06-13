@@ -20,7 +20,29 @@ The key goals of this workshop are to extend the understanding of constraint mod
 
 ## <a name="invtalks"></a> Invited Talks
 
-**To be announced ...**
+### **dr. Ruth Hoffman** (University of St Andrews, Scotland) - Constraint modelling and solving: Learning from observing people
+
+*Coming soon...*
+
+### **dr. Nguyen Dang** (University of St Andrews, Scotland) - A Constraint-Based Tool for Generating Benchmark Instances
+
+Benchmarking is fundamental for assessing the relative performance of
+alternative solving approaches. For an informative benchmark we often need a
+sufficient quantity of instances with different levels of difficulty and the
+ability to explore subsets of the instance space to detect performance
+discrimination among solvers. In this talk, I will present AutoIG, an
+automated tool for generating benchmark instances for constraint solvers.
+AutoIG supports generating two types of instances: graded instances
+(i.e., solvable at a certain difficult level by a solver), and discriminating
+instances (i.e., favouring a solver over another). The usefulness of the tool
+in benchmarking is demonstrated via an application on five problems taken
+from the MiniZinc Challenges. Our experiments show that the large number of
+instances found by AutoIG can provide more detailed insights into the
+performance of the solvers rather than just a ranking. Cases where a solver
+is weak or even faulty can be detected, providing valuable information to
+solver developers. Moreover, discriminating instances can reveal parts of the
+instance space where a generally weak solver actually performs well relative
+to others, and therefore could be useful as part of an algorithm portfolio.
 
 ## <a name="callForPapers"></a> Call for Papers 
 
@@ -35,10 +57,9 @@ All submissions will be reviewed and those that are well-written and make a wort
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|-----------------------------------------:|
-| Paper Abstract Submission                | May 3rd, 2022                            |
-| Paper Full Submission                    | May 10th, 2022                           |
-| Lightning talk Proposals                 | TBA                                      |
-| Notification of acceptance/rejection     | June 15th, 2022                          |
+| Paper Abstract Submission                | ~~May 3rd, 2022~~                        |
+| Paper Full Submission                    | ~~May 10th, 2022~~                       |
+| Notification of acceptance/rejection     | ~~June 15th, 2022~~                      |
 | Camera ready version                     | July 1st, 2022                           |
 | Workshop day                             | **July 31st, 2022**                      |
 
