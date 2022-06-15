@@ -18,6 +18,24 @@ The key goals of this workshop are to extend the understanding of constraint mod
 - Automatic reformulation techniques; and
 - Techniques which allow automatically targeting multiple kinds of solvers from a single declarative model.
 
+## <a name="timetable"></a> Program
+
+| Time                         | Event                                                                                                |
+|------------------------------|------------------------------------------------------------------------------------------------------|
+| **Session 1**: 9:00 - 10:30  | *Invited Talk*: Constraint modelling and solving: Learning from observing people -- dr. Ruth Hoffman |
+|                              | *Paper*: Solving XCSP3 constraint problems using tools from software verification                    |
+|                              | *Paper*: Constraint-based Part-of-Speech Tagging                                                     |
+| **Break**: 10:30 - 11:00     |                                                                                                      |
+| **Session 2**: 11:00 - 12:30 | *Paper*: A portfolio-based analysis method for competition results                                   |
+|                              | *Paper*: Efficiently Explaining CSPs with Unsatisfiable Subset Optimization                          |
+|                              | *Paper*: Automatic Generation of Dominance Breaking Nogoods for Constraint Optimization              |
+| **Lunch**: 12:30 - 14:00     |                                                                                                      |
+| **Session 3**: 14:00 - 15:30 | *Invited Talk*: A Constraint-Based Tool for Generating Benchmark Instances -- dr. Nguyen Dang        |
+|                              | **Modelling competition**                                                                            |
+| **Break**: 15:30 - 16:00     |                                                                                                      |
+| **Session 4**: 16:00 - 17:15 | **Modelling competition**                                                                            |
+|                              | *17:00*: Competition results                                                                         |
+
 ## <a name="invtalks"></a> Invited Talks
 
 ### **dr. Ruth Hoffman** (University of St Andrews, Scotland) - Constraint modelling and solving: Learning from observing people
@@ -44,15 +62,10 @@ solver developers. Moreover, discriminating instances can reveal parts of the
 instance space where a generally weak solver actually performs well relative
 to others, and therefore could be useful as part of an algorithm portfolio.
 
-## <a name="callForPapers"></a> Call for Papers 
+## <a name="invtalks"></a> Modelling Competition
 
-This year ModRef will again paper submissions. In addition to the presentation of research results, we especially welcome submissions of novel (ongoing) work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
+*More information coming soon...*
 
-There are two types of paper submissions: extended abstracts (at most two pages) and full papers (at most fifteen pages). References are not part of the page limit. Papers are submitted through [EasyChair](https://easychair.org/conferences/?conf=modref2022), as a PDF file following [LIPIcs guidelines](https://submission.dagstuhl.de/series/details/5#author).
-
-We also accept (and encourage) non-traditional electronic submissions, such as interactive works/tool demonstrations. In this case, please contact the [chairs](mailto://modref@a4cp.org) to discuss the suitability of your submission for ModRef.
-
-All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2022. Accepted contributions will be allowed a time slot for a presentation at the workshop. At least one author of each accepted paper must attend and present at the workshop. Please note that every workshop participant needs to be registered for the workshop.
 
 ## <a name="importantDates"></a> Important Dates
 
@@ -63,7 +76,17 @@ All submissions will be reviewed and those that are well-written and make a wort
 | Camera ready version                     | July 1st, 2022                           |
 | Workshop day                             | **July 31st, 2022**                      |
 
-For questions about the workshop, please contact the chairs Dr. Jip J. Dekker and Dr. Guido Tack: <modref@a4cp.org>
+For questions about the workshop, please contact the chairs dr. Jip J. Dekker and dr. Guido Tack: <modref@a4cp.org>
+
+## <a name="callForPapers"></a> Call for Papers 
+
+This year ModRef will again paper submissions. In addition to the presentation of research results, we especially welcome submissions of novel (ongoing) work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
+
+There are two types of paper submissions: extended abstracts (at most two pages) and full papers (at most fifteen pages). References are not part of the page limit. Papers are submitted through [EasyChair](https://easychair.org/conferences/?conf=modref2022), as a PDF file following [LIPIcs guidelines](https://submission.dagstuhl.de/series/details/5#author).
+
+We also accept (and encourage) non-traditional electronic submissions, such as interactive works/tool demonstrations. In this case, please contact the [chairs](mailto://modref@a4cp.org) to discuss the suitability of your submission for ModRef.
+
+All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2022. Accepted contributions will be allowed a time slot for a presentation at the workshop. At least one author of each accepted paper must attend and present at the workshop. Please note that every workshop participant needs to be registered for the workshop.
 
 ## <a name="programCommittee"></a> Program Committee
 
@@ -75,10 +98,6 @@ For questions about the workshop, please contact the chairs Dr. Jip J. Dekker an
 | Jimmy H.M. Lee        | Chinese University of Hong Kong |
 | Kevin Leo                          | Monash University  |
 
-
-## <a name="timetable"></a> Program
-
-**To be announced ...**
 
 ## <a name="pmodrefs"></a> Previous ModRef Workshops
 The ModRef workshop has been running for 21 years and has hosted many interesting presentations.
