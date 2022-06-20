@@ -62,9 +62,19 @@ solver developers. Moreover, discriminating instances can reveal parts of the
 instance space where a generally weak solver actually performs well relative
 to others, and therefore could be useful as part of an algorithm portfolio.
 
-## <a name="invtalks"></a> Modelling Competition
+## <a name="modcomp"></a> Modelling Competition
 
-*More information coming soon...*
+This year ModRef will host a modelling competition. Teams of up to five
+members will compete to be the quickest to find the best solutions for
+different instances of described problems. Teams can compete either on
+location at FLoC 2022 or remotely. We will organize a chat server to
+communicate with the teams competing remotely. The problem descriptions will
+be available from circa 14:45 (UTC+3) and solutions can be submitted until
+17:00 (UTC+3), after which the winners will be directly announced.
+
+*Additional information, including the scoring method, will be announced soon.*
+
+**Registration**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfGWdx7IVUGYFIm5wUD1au08i1ssuoCl6i5PFsgqXKBgZ94dw/viewform?usp=sf_link), or in-person at FLoC 2022
 
 
 ## <a name="importantDates"></a> Important Dates
