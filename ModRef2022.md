@@ -68,7 +68,7 @@ to others, and therefore could be useful as part of an algorithm portfolio.
 
 ## <a name="modcomp"></a> Modelling Competition
 
-This year ModRef will host a modelling competition. Teams of up to five
+This year, ModRef will host a modelling competition. Teams of up to three
 members will compete to be the quickest to find the best solutions for
 different instances of described problems. Teams can compete either on
 location at FLoC 2022 or remotely. We will organize a chat server to
@@ -76,7 +76,7 @@ communicate with the teams competing remotely. The problem descriptions will
 be available from circa 14:45 (UTC+3) and solutions can be submitted until
 17:00 (UTC+3), after which the winners will be directly announced.
 
-*Additional information, including the scoring method, will be announced soon.*
+The official **Rules** of the competition can be found [here](https://docs.google.com/document/d/1rkttP7jWwy9sYUiUW89tzmBcWQBWSPZfnALEjoitsMo/edit?usp=sharing)
 
 **Registration**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfGWdx7IVUGYFIm5wUD1au08i1ssuoCl6i5PFsgqXKBgZ94dw/viewform?usp=sf_link), or in-person at FLoC 2022
 
