@@ -87,7 +87,7 @@ be available from circa 14:45 (UTC+3) and solutions can be submitted until
 | Paper Abstract Submission                | ~~May 3rd, 2022~~                        |
 | Paper Full Submission                    | ~~May 10th, 2022~~                       |
 | Notification of acceptance/rejection     | ~~June 15th, 2022~~                      |
-| Camera ready version                     | July 1st, 2022                           |
+| Camera ready version                     | ~~July 1st, 2022~~                       |
 | Workshop day                             | **July 31st, 2022**                      |
 
 For questions about the workshop, please contact the chairs dr. Jip J. Dekker and dr. Guido Tack: <modref@a4cp.org>
