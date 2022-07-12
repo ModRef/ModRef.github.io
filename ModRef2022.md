@@ -20,7 +20,25 @@ The key goals of this workshop are to extend the understanding of constraint mod
 
 ## <a name="timetable"></a> Program
 
-The detailed program can be found on [EasyChair](https://easychair.org/smart-program/FLoC2022/ModRef-index.html)
+The detailed program can also be found on [EasyChair](https://easychair.org/smart-program/FLoC2022/ModRef-index.html)
+
+
+| Time                         | Event                                                                                                |
+|------------------------------|------------------------------------------------------------------------------------------------------|
+| **Session 1**: 9:00 - 10:30  | *Invited Talk*: Constraint modelling and solving: Learning from observing people -- Ruth Hoffman |
+|                              | *Paper*: Solving XCSP3 constraint problems using tools from software verification -- Martin Mariusz Lester [(paper)](papers/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromSoftwareVerification.pdf) |
+|                              | *Paper*: Constraint-based Part-of-Speech Tagging -- Neng-Fa Zhou [(paper)](papers/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) |
+| **Break**: 10:30 - 11:00     |                                                                                                      |
+| **Session 2**: 11:00 - 12:30 | *Paper*: A portfolio-based analysis method for competition results -- Nguyen Dang [(paper)](papers/ModRef2022_PortfolioBasedAnalysisMethodForCompetitionResults.pdf) |
+|                              | *Paper*: Efficiently Explaining CSPs with Unsatisfiable Subset Optimization -- Emilio Gamba, Bart Bogaerts and Tias Guns [(paper)](papers/ModRef2022_EfficientExplainingCSPsWithUnsatisfiableSubsetOptimization.pdf) |
+|                              | *Paper*: Automatic Generation of Dominance Breaking Nogoods for Constraint Optimization -- Jimmy H. M. Lee and Allen Z. Zhong [(paper)](papers/ModRef2022_AutomaticGenerationOfDominanceBreakNogoodsForConstraintOptimization.pdf) |
+| **Lunch**: 12:30 - 14:00     |                                                                                                      |
+| **Session 3**: 14:00 - 15:30 | *Invited Talk*: A Constraint-Based Tool for Generating Benchmark Instances -- Nguyen Dang        |
+|                              | **Modelling competition**                                                                            |
+| **Break**: 15:30 - 16:00     |                                                                                                      |
+| **Session 4**: 16:00 - 17:15 | **Modelling competition**                                                                            |
+|                              | *17:00*: Competition results                                                                         |
+
 
 ## <a name="invtalks"></a> Invited Talks
 
