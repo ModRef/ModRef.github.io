@@ -25,7 +25,7 @@ The detailed program can also be found on [EasyChair](https://easychair.org/smar
 
 | Time                         | Event                                                                                                |
 |------------------------------|------------------------------------------------------------------------------------------------------|
-| **Session 1**: 9:00 - 10:30  | *Invited Talk*: Constraint modelling and solving: Learning from observing people -- Ruth Hoffman |
+| **Session 1**: 9:00 - 10:30  | *Invited Talk*: Constraint modelling and solving: Learning from observing people -- Ruth Hoffmann |
 |                              | *Paper*: Solving XCSP3 constraint problems using tools from software verification -- Martin Mariusz Lester [(paper)](papers/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromSoftwareVerification.pdf) |
 |                              | *Paper*: Constraint-based Part-of-Speech Tagging -- Neng-Fa Zhou [(paper)](papers/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) |
 | **Break**: 10:30 - 11:00     |                                                                                                      |
@@ -42,9 +42,18 @@ The detailed program can also be found on [EasyChair](https://easychair.org/smar
 
 ## <a name="invtalks"></a> Invited Talks
 
-### **dr. Ruth Hoffman** (University of St Andrews, Scotland) - Constraint modelling and solving: Learning from observing people
+### **dr. Ruth Hoffmann** (University of St Andrews, Scotland) - Constraint modelling and solving: Learning from observing people
 
-*Coming soon...*
+Research in constraint programming typically focuses on problem-solving efficiency. 
+However, the way users conceptualise problems and communicate with constraint programming tools is often sidelined. 
+How humans think about constraint problems can be important for the development of efficient tools and representations that are useful to a broader audience.
+Although many visual programming languages exist, as an alternate for textual representation, for procedural languages, visual encoding of problem specifications has not received much attention.
+Thus, visualization could provide an alternative way to model and understand such problems.
+We present an initial step towards better understanding of the human side of the constraint modelling and solving process.
+We executed a study that catalogs how people approach three parts of constraint programming (1) the problem representation, (2) the problem-solving, and (3) the programming of a solver.
+To our knowledge, this is the first human-centred study addressing how people approach constraint modelling and solving. 
+We studied three groups with different expertise: non-computer scientists, computer scientists and constraint programmers and analyzed their marks on paper (e.g., arrows), gestures (e.g., pointing), the mappings to problem concepts (e.g., containers, sets) and any strategies and explanations that they provided.
+We will discuss results and future research this study will hopefully inspire.
 
 ### **dr. Nguyen Dang** (University of St Andrews, Scotland) - A Constraint-Based Tool for Generating Benchmark Instances
 
