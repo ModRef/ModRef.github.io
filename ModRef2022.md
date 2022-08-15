@@ -91,7 +91,18 @@ be available from circa 14:45 (UTC+3) and solutions can be submitted until
 
 The official **Rules** of the competition can be found [here](https://docs.google.com/document/d/1rkttP7jWwy9sYUiUW89tzmBcWQBWSPZfnALEjoitsMo/edit?usp=sharing)
 
-**Registration**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfGWdx7IVUGYFIm5wUD1au08i1ssuoCl6i5PFsgqXKBgZ94dw/viewform?usp=sf_link), or in-person at FLoC 2022
+~~**Registration**: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfGWdx7IVUGYFIm5wUD1au08i1ssuoCl6i5PFsgqXKBgZ94dw/viewform?usp=sf_link), or in-person at FLoC 2022~~
+
+### Competition Results
+
+| Rank | Score |       Team Name       | Members       |
+|:----:|:-----:|:---------------------:|:-------------:|
+| 1    | 203   | Zayenz                | *undisclosed* |
+| 2    | 166   | Picat                 | *undisclosed* |
+| 3    | 138   | Crispy                | *undisclosed* |
+| 4    | 102   | Helmut                | *undisclosed* |
+| 5    | 62    | University of Reading | *undisclosed* |
+| 6    | 18    | Quokka                | *undisclosed* |
 
 
 ## <a name="importantDates"></a> Important Dates
