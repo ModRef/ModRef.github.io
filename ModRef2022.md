@@ -97,10 +97,10 @@ The official **Rules** of the competition can be found [here](https://docs.googl
 
 | Rank | Score |       Team Name       | Members       |
 |:----:|:-----:|:---------------------:|:-------------:|
-| 1    | 203   | Zayenz                | *undisclosed* |
+| 1    | 203   | Zayenz                | Mikael Zayenz Lagerkvist |
 | 2    | 166   | Picat                 | *undisclosed* |
 | 3    | 138   | Crispy                | *undisclosed* |
-| 4    | 102   | Helmut                | *undisclosed* |
+| 4    | 102   | Helmut                | Helmut Simonis |
 | 5    | 62    | University of Reading | *undisclosed* |
 | 6    | 18    | Quokka                | *undisclosed* |
 
