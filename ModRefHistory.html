@@ -41,7 +41,7 @@
     background-color: #f1f1f1;
 }
   </style>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@3.0.7/marked.min.js"></script>
   <script>
 
 function myFunction() {
@@ -83,7 +83,7 @@ function myFunction() {
 
   <script>
     async function fetchAndParseMarkdown() {
-      const url = 'https://modref.github.io/ModRefListSimp.md'
+      const url = '/ModRefListSimp.md'
       const response = await fetch(url)
       const data = await response.text()
       const htmlFromMarkdown = marked(data, { sanitize: true });

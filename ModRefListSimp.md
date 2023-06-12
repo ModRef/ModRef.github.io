@@ -1,5 +1,20 @@
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
+| 2022 | Ruth Hoffmann | Constraint modelling and solving: Learning from observing people [(slides)](slides/ModRef2022_ConstraintModellingAndSolver_LearningFromObservingPeople.pdf) | Invited |
+| 2022 | Martin Mariusz Lester | Solving XCSP3 constraint problems using tools from software verification [(paper)](papers/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromSoftwareVerification.pdf) [(slides)](slides/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromFormalVerification.pdf) | Paper |
+| 2022 | Neng-Fa Zhou | Constraint-based Part-of-Speech Tagging [(paper)](papers/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) [(slides)](slides/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) | Paper |
+| 2022 | Nguyen Dang | A portfolio-based analysis method for competition results [(paper)](papers/ModRef2022_PortfolioBasedAnalysisMethodForCompetitionResults.pdf) [(slides)](slides/ModRef2022_PortfolioBasedAnalysisMethodForCompetitionResults.pdf) | Paper |
+| 2022 | Emilio Gamba, Bart Bogaerts and Tias Guns | Efficiently Explaining CSPs with Unsatisfiable Subset Optimization [(paper)](papers/ModRef2022_EfficientExplainingCSPsWithUnsatisfiableSubsetOptimization.pdf) [(slides)](slides/ModRef2022_EfficientExplainingCSPsWithUnsatisfiableSubsetOptimization.pdf) | Paper |
+| 2022 | Jimmy H. M. Lee and Allen Z. Zhong | Automatic Generation of Dominance Breaking Nogoods for Constraint Optimization [(paper)](papers/ModRef2022_AutomaticGenerationOfDominanceBreakNogoodsForConstraintOptimization.pdf) [(slides)](slides/ModRef2022_AutomaticGenerationOfDominanceBreakingNogoodsForConstraintOptimisation.pdf) | Paper |
+| 2022 | Nguyen Dang | A Constraint-Based Tool for Generating Benchmark Instances [(slides)](slides/ModRef2022_ConstraintBasedToolForGeneratingBenchmarkInstances.pdf) | Invited |
+| 2021 | Torsten Schaub | Answer-set Programming in a Nutshell | Invited |
+| 2021 | Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker | Selecting SAT Encodings for Pseudo-Boolean and Linear Constraints: Preliminary Results  [(paper)](papers/ModRef2021_SAT-PBLinear.pdf) | Paper |
+| 2021 | Peter J. Stuckey and Guido Tack | Enumerated Types, Type Extensions and Defaults for MiniZinc [(paper)](papers/ModRef2021_MiniZincEnumeratedTypes.pdf) | Paper |
+| 2021 | Sophia Saller and Jana Koehler | Easy, adaptable and high-quality Modelling with Domain-Specific Constraint Patterns [(paper)](papers/ModRef2021_ModellingConstraintPatterns.pdf) | Paper |
+| 2021 | Bart Bogaerts | Predicate Logic as a Modelling Language: The IDP System | Invited |
+| 2021 | Jordi Coll, Joan Espasa Arxer, Ian Miguel and Mateu Villaret | A preliminary Case Study of Planning With Complex Transitions: Plotting [(paper)](papers/ModRef2021_PlanningPlotting.pdf) | Paper |
+| 2021 | Hélène Verhaeghe, Roger Kameugne, Christophe Lecoutre and Pierre Schaus | Improved Filtering of Scheduling Problems using Redundant Table Constraints [(paper)](papers/ModRef2021_SchedulingRedundantTable.pdf) | Paper |
+| 2021 | Özgür Akgün, Alan M. Frisch, Ian P. Gent, Christopher Jefferson, Ian Miguel, Peter Nightingale and András Z. Salamon | Towards Reformulating Essence Specifications for Robustness [(paper)](papers/ModRef2021_ReformulatingEssenceRobustness.pdf) | Paper |
 | 2020 | Maria Garcia de la Banda | Rethinking Model Reformulation: from Speed focused to Human focused | Invited |
 | 2020 | Mateusz Ślażyński, Salvador Abreu and Grzegorz J. Nalepa | Specifying Local Search Neighborhoods from a Constraint Satisfaction Problem Structure | Paper |
 | 2020 | Mikael Z. Lagerkvist and Magnus Rattfeldt | Half-checking propagators | Paper |
