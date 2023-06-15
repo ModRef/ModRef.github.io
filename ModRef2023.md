@@ -23,9 +23,9 @@ Workshop topics include:
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|-----------------------------------------:|
-| Paper Submission                         | ~~July 7th, 2023~~                       |
-| Notification of acceptance/rejection     | ~~July 17th, 2023~~                      |
-| Camera ready version                     | ~~July 24th, 2023~~                      |
+| Paper Submission                         | **July 7th, 2023**                       |
+| Notification of acceptance/rejection     | **July 17th, 2023**                      |
+| Camera ready version                     | **July 24th, 2023**                      |
 | Workshop day                             | **August 27th, 2023**                    |
 
 ## <a name="callForPapers"></a> Call for Papers 
