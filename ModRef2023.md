@@ -22,17 +22,17 @@ Workshop topics include:
 
 ## <a name="importantDates"></a> Important Dates
 
-|------------------------------------------|-----------------------------------------:|
-| Paper Submission                         | **July 7th, 2023**                       |
-| Notification of acceptance/rejection     | **July 17th, 2023**                      |
-| Camera ready version                     | **July 24th, 2023**                      |
-| Workshop day                             | **August 27th, 2023**                    |
+|------------------------------------------|--------------------------------------------:|
+| Paper Submission                         | ~~July 7th, 2023~~ **July 11th, 2023**      |
+| Notification of acceptance/rejection     | ~~July 17th, 2023~~  **July 21st, 2023**    |
+| Camera ready version                     | ~~July 24th, 2023~~  TBC                    |
+| Workshop day                             | **August 27th, 2023**                       |
 
 ## <a name="callForPapers"></a> Call for Papers 
 
 This year ModRef will again accept paper submissions. In addition to the presentation of research results, we especially welcome submissions of novel (ongoing) work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
 
-There are three types of paper submissions: extended abstracts (at most two pages), short papers (at most eight pages) and long papers (at most fifteen pages). References are not part of the page limit. Papers are submitted through [EasyChair](https://easychair.org/conferences/?conf=modref2023), as a PDF file following [LIPIcs guidelines](https://submission.dagstuhl.de/series/details/5#author). 
+There are three types of paper submissions: extended abstracts (at most two pages), short papers (at most eight pages) and long papers (at most fifteen pages). References are not part of the page limit. Papers are submitted through [EasyChair](https://easychair.org/conferences/?conf=modref2023), as a PDF file following [LIPIcs guidelines](https://submission.dagstuhl.de/series/details/5#author). There is no requirement for papers to be anonymised before submission. 
 
 We also accept (and encourage) non-traditional electronic submissions, such as interactive works/tool demonstrations. In this case, please contact the chairs to discuss the suitability of your submission for ModRef. 
 <!--[chairs](mailto://peter.nightingale@york.ac.uk)--> 
@@ -43,10 +43,10 @@ All submissions will be reviewed and those that are well-written and make a wort
 
 ## <a name="programCommittee"></a> Program Committee
 
-|------------------------------------|-----------------------|
-| Peter Nightingale (Chair)          | University of York    | 
-| Elias Khalil (Chair)               | University of Toronto |
-| Rest TBC                           |                       |
+|-----------------------------------------|--------------------------|
+| Peter Nightingale (Chair)               | University of York       | 
+| Christopher Stone (Chair)               | University of St Andrews |
+| Rest TBC                                |                          |
 
 
 Further details of the workshop will be made available here soon. 
