@@ -44,10 +44,16 @@ All submissions will be reviewed and those that are well-written and make a wort
 
 ## <a name="programCommittee"></a> Program Committee
 
-|-----------------------------------------|--------------------------|
+|-----------------------------------------|--------------------------| 
+| Jip J. Dekker                           | Monash University        |
+| Maria Andreina Francisco Rodriguez      | Uppsala University       |
+| Jimmy Lee                               | The Chinese University of Hong Kong |
+| Kevin Leo                               | Monash University        | 
 | Peter Nightingale (Chair)               | University of York       | 
 | Christopher Stone (Chair)               | University of St Andrews |
-| Rest TBC                                |                          |
+| Guido Tack                              | Monash University        |
+| Felix Ulrich-Oltean                     | University of York       | 
+
 
 
 Further details of the workshop will be made available here soon. 
