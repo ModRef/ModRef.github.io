@@ -55,5 +55,40 @@ All submissions will be reviewed and those that are well-written and make a wort
 | Felix Ulrich-Oltean                     | University of York       | 
 
 
+## <a name="schedule"></a> Schedule
+
+### Session 1
+
+_Chair: Christopher Stone_
+
+9:00 – 9:30 Anna Latour, Arunabha Sen and Kuldeep Meel, *Solving the Identifying Code Set Problem with Grouped Independent Support (Extended Abstract)*
+
+9:30 – 10:00 Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and _Mateu Villaret_, *Towards a Model of Puzznic*
+
+10:00 – 10:30 _Guillaume Derval_ and Damien Ernst, *Symbolism for modelling, reformulations, and parallelism: MaxiCP-Modelling*
+
+### Session 2
+
+_Chair: Christopher Stone_
+
+10:55 - 11:25 Sean Patterson, Joan Espasa, Mun See Chang and _Ruth Hoffmann_, *Towards Automatic Design of Factorio Blueprints*
+
+11:25 - 11:55 _Tias Guns_, *Things we underestimated while developing the CPMpy constraint modelling library*
+
+11:55 - 12:25 _Miquel Bofill_, Cristina Borralleras, Joan Espasa Arxer and Mateu Villaret, *On Grid Graph Reachability and Puzzle Games*
+
+### Session 3
+
+13:40 - 14:10 Wout Vanroose, _Ignace Bleukx_, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe and Tias Guns, *Breaking Constraint Modelling Languages with Metamorphic Testing (extended abstract)*
+
+14:10 - 15:10 _Hélène Verhaeghe_, invited talk. 
+
+### Session 4
+
+_Chair: Christopher Stone_
+
+15:30 – 16:30 Panel Discussion: *What does the future hold for constraint modelling?*
+
+
 
 Further details of the workshop will be made available here soon. 
