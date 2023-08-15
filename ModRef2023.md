@@ -61,7 +61,7 @@ All submissions will be reviewed and those that are well-written and make a wort
 
 _Chair: Christopher Stone_
 
-9:00 – 9:30 Anna Latour, Arunabha Sen and Kuldeep Meel, **Solving the Identifying Code Set Problem with Grouped Independent Support (Extended Abstract)**
+9:00 – 9:30 _Anna Latour_, Arunabha Sen and Kuldeep Meel, **Solving the Identifying Code Set Problem with Grouped Independent Support (Extended Abstract)**
 
 9:30 – 10:00 Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and _Mateu Villaret_, **Towards a Model of Puzznic**
 
