@@ -54,6 +54,7 @@ All submissions will be reviewed and those that are well-written and make a wort
 | Guido Tack                              | Monash University        |
 | Felix Ulrich-Oltean                     | University of York       | 
 
+Special thanks to Kevin Leo and Jimmy Lee who made final decisions on papers where both chairs had a conflict of interest. 
 
 ## <a name="schedule"></a> Schedule
 
@@ -61,34 +62,31 @@ All submissions will be reviewed and those that are well-written and make a wort
 
 _Chair: Christopher Stone_
 
-9:00 – 9:30 _Anna Latour_, Arunabha Sen and Kuldeep Meel, **Solving the Identifying Code Set Problem with Grouped Independent Support (Extended Abstract)**
+9:00 – 9:30 _Anna Latour_, Arunabha Sen and Kuldeep Meel, **Solving the Identifying Code Set Problem with Grouped Independent Support (Extended Abstract)** [(paper)](papers/ModRef2023_SolvingTheIndependentCodeSetProblemWithGroupedIndependentSupport.pdf)
 
-9:30 – 10:00 Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and _Mateu Villaret_, **Towards a Model of Puzznic**
+9:30 – 10:00 Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and _Mateu Villaret_, **Towards a Model of Puzznic** [(paper)](papers/ModRef2023_TowardsAModelOfPuzznic.pdf)
 
-10:00 – 10:30 _Guillaume Derval_ and Damien Ernst, **Symbolism for modelling, reformulations, and parallelism: MaxiCP-Modelling**
+10:00 – 10:30 _Guillaume Derval_ and Damien Ernst, **Symbolism for modelling, reformulations, and parallelism: MaxiCP-Modelling** [(paper)](papers/ModRef2023_SymbolismForModellingReformulationsAndParallelismMaxiCPModelling.pdf)
 
 ### Session 2
 
 _Chair: Christopher Stone_
 
-10:55 - 11:25 Sean Patterson, Joan Espasa, Mun See Chang and _Ruth Hoffmann_, **Towards Automatic Design of Factorio Blueprints**
+10:55 - 11:25 Sean Patterson, Joan Espasa, Mun See Chang and _Ruth Hoffmann_, **Towards Automatic Design of Factorio Blueprints** [(paper)](papers/ModRef2023_TowardsAutomaticDesignOfFactorioBlueprints.pdf)
 
-11:25 - 11:55 _Tias Guns_, **Things we underestimated while developing the CPMpy constraint modelling library**
+11:25 - 11:55 _Tias Guns_, **Things we underestimated while developing the CPMpy constraint modelling library** [(paper)](papers/ModRef2023_ThingsWeUnderestimatedWhileDevelopingTheCPMpyConstraintModellingLibrary.pdf)
 
-11:55 - 12:25 _Miquel Bofill_, Cristina Borralleras, Joan Espasa Arxer and Mateu Villaret, **On Grid Graph Reachability and Puzzle Games**
+11:55 - 12:25 _Miquel Bofill_, Cristina Borralleras, Joan Espasa Arxer and Mateu Villaret, **On Grid Graph Reachability and Puzzle Games** [(paper)](papers/ModRef2023_OnGridGraphReachabilityAndPuzzleGames.pdf)
 
 ### Session 3
 
-13:40 - 14:10 Wout Vanroose, _Ignace Bleukx_, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe and Tias Guns, **Breaking Constraint Modelling Languages with Metamorphic Testing (extended abstract)**
+13:40 - 14:10 Wout Vanroose, _Ignace Bleukx_, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe and Tias Guns, **Breaking Constraint Modelling Languages with Metamorphic Testing (extended abstract)** [(paper)](papers/ModRef2023_BreakingConstraintModellingLanguagesWithMetamorphicTestingExtendedAbstract.pdf)
 
-14:10 - 15:10 _Hélène Verhaeghe_, invited talk. 
+14:10 - 15:10 _Hélène Verhaeghe_, Invited Talk: **Solving Complex Problems: Graphs, Constraints, and Machine Learning in Action**
 
 ### Session 4
 
 _Chair: Christopher Stone_
 
-15:30 – 16:30 Panel Discussion: **What does the future hold for constraint modelling?**
+15:30 – 16:30 Panel Discussion: **What does the future hold for constraint modelling?** Panel members: _Hélène Verhaeghe_, _Peter Stuckey_, _Maria Garcia de la Banda_. 
 
-
-
-Further details of the workshop will be made available here soon. 
