@@ -41,21 +41,6 @@ We also accept (and encourage) non-traditional electronic submissions, such as i
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2023. Accepted contributions will be allowed a time slot for a presentation at the workshop. In-person presentation is preferable, but we will allow remote presentation of papers when necessary. 
 
-
-## <a name="programCommittee"></a> Program Committee
-
-|-----------------------------------------|--------------------------| 
-| Jip J. Dekker                           | Monash University        |
-| Maria Andreina Francisco Rodriguez      | Uppsala University       |
-| Jimmy Lee                               | The Chinese University of Hong Kong |
-| Kevin Leo                               | Monash University        | 
-| Peter Nightingale (Chair)               | University of York       | 
-| Christopher Stone (Chair)               | University of St Andrews |
-| Guido Tack                              | Monash University        |
-| Felix Ulrich-Oltean                     | University of York       | 
-
-Special thanks to Kevin Leo and Jimmy Lee who made final decisions on papers where both chairs had a conflict of interest. 
-
 ## <a name="schedule"></a> Schedule
 
 ### Session 1
@@ -89,4 +74,20 @@ _Chair: Christopher Stone_
 _Chair: Christopher Stone_
 
 15:30 – 16:30 Panel Discussion: **What does the future hold for constraint modelling?** Panel members: _Hélène Verhaeghe_, _Peter Stuckey_, _Maria Garcia de la Banda_. 
+
+
+
+## <a name="programCommittee"></a> Program Committee
+
+|-----------------------------------------|--------------------------| 
+| Jip J. Dekker                           | Monash University        |
+| Maria Andreina Francisco Rodriguez      | Uppsala University       |
+| Jimmy Lee                               | The Chinese University of Hong Kong |
+| Kevin Leo                               | Monash University        | 
+| Peter Nightingale (Chair)               | University of York       | 
+| Christopher Stone (Chair)               | University of St Andrews |
+| Guido Tack                              | Monash University        |
+| Felix Ulrich-Oltean                     | University of York       | 
+
+Special thanks to Kevin Leo and Jimmy Lee who made final decisions on papers where both chairs had a conflict of interest. 
 
