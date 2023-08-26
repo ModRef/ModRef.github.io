@@ -68,6 +68,7 @@ _Chair: Christopher Stone_
 13:40 - 14:10 Wout Vanroose, _Ignace Bleukx_, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe and Tias Guns, **Breaking Constraint Modelling Languages with Metamorphic Testing (extended abstract)** [(paper)](papers/ModRef2023_BreakingConstraintModellingLanguagesWithMetamorphicTestingExtendedAbstract.pdf)
 
 14:10 - 15:10 _Hélène Verhaeghe_, Invited Talk: **Solving Complex Problems: Graphs, Constraints, and Machine Learning in Action**
+
 _Abstract:_ This talk is about a story on graphs. It started when I first stepped foot in research during my master's thesis on the TSP. As I continued my path in research, graphs were still playing a big part as I designed my constraint propagators for the diagram constraint during my PhD at UCLouvain. Now, I mainly focus on hybridization techniques between CP and ML, but the graphs are still there, and even influence my design choices. During my talk, I'll present my last projects, from my time as a post-doc at Polytechnique and now a post-doc at KULeuven, and how they are benefiting from underlying graph structures.
 
 ### Session 4
