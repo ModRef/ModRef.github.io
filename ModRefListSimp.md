@@ -1,5 +1,13 @@
 | Year | Authors | Title | Type |
 |------|---------|-------|------|
+| 2023 | Hélène Verhaeghe | Solving Complex Problems: Graphs, Constraints, and Machine Learning in Action [(slides)](slides/ModRef2023_SolvingComplexProblems.pdf) | Invited |
+| 2023 | Wout Vanroose, Ignace Bleukx, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe and Tias Guns | Breaking Constraint Modelling Languages with Metamorphic Testing (extended abstract) [(paper)](papers/ModRef2023_BreakingConstraintModellingLanguagesWithMetamorphicTestingExtendedAbstract.pdf) | Paper |
+| 2023 | Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer and Mateu Villaret | On Grid Graph Reachability and Puzzle Games [(paper)](papers/ModRef2023_OnGridGraphReachabilityAndPuzzleGames.pdf) | Paper |
+| 2023 | Tias Guns | Things we underestimated while developing the CPMpy constraint modelling library [(paper)](papers/ModRef2023_ThingsWeUnderestimatedWhileDevelopingTheCPMpyConstraintModellingLibrary.pdf) | Paper |
+| 2023 | Sean Patterson, Joan Espasa, Mun See Chang and Ruth Hoffmann | Towards Automatic Design of Factorio Blueprints [(paper)](papers/ModRef2023_TowardsAutomaticDesignOfFactorioBlueprints.pdf) | Paper |
+| 2023 | Guillaume Derval and Damien Ernst | Symbolism for modelling, reformulations, and parallelism: MaxiCP-Modelling [(paper)](papers/ModRef2023_SymbolismForModellingReformulationsAndParallelismMaxiCPModelling.pdf) | Paper |
+| 2023 | Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret | Towards a Model of Puzznic [(paper)](papers/ModRef2023_TowardsAModelOfPuzznic.pdf) | Paper |
+| 2023 | Anna Latour, Arunabha Sen and Kuldeep Meel | Solving the Identifying Code Set Problem with Grouped Independent Support (Extended Abstract) [(paper)](papers/ModRef2023_SolvingTheIndependentCodeSetProblemWithGroupedIndependentSupport.pdf) | Paper |
 | 2022 | Ruth Hoffmann | Constraint modelling and solving: Learning from observing people [(slides)](slides/ModRef2022_ConstraintModellingAndSolver_LearningFromObservingPeople.pdf) | Invited |
 | 2022 | Martin Mariusz Lester | Solving XCSP3 constraint problems using tools from software verification [(paper)](papers/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromSoftwareVerification.pdf) [(slides)](slides/ModRef2022_SolvingXCSP3ConstraintProblemsUsingToolsFromFormalVerification.pdf) | Paper |
 | 2022 | Neng-Fa Zhou | Constraint-based Part-of-Speech Tagging [(paper)](papers/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) [(slides)](slides/ModRef2022_ConstraintBasedPartOfSpeechTagging.pdf) | Paper |
