@@ -23,10 +23,10 @@ Workshop topics include:
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|--------------------------------------------:|
-| Paper Submission                         | **TBD**                                     |
-| Submissions may be updated until         | **TBD**                                     |
-| Notification of acceptance/rejection     | **TBD**                                     |
-| Camera ready version                     | **TBD**                                     |
+| Abstract Submission                      | **June 3rd, 2024**                          |
+| Paper Submission                         | **June 7th, 2024**                          |
+| Notification of acceptance/rejection     | **June 13th, 2024**                         |
+| Camera ready version                     | **August 23rd, 2024**                       |
 | Workshop day                             | **September 2nd, 2024**                     |
 
 ## <a name="callForPapers"></a> Call for Papers 
