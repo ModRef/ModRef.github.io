@@ -51,8 +51,16 @@ TBD
 
 |-----------------------------------------|--------------------------| 
 | Nysret Musliu (Chair)                   | TU Wien                  |
-| Hélène Verhaeghe (Chair)                | KULeuven/UCLouvain       |
-| TBD                                     |                          |
+| Hélène Verhaeghe (Chair)                | KU Leuven/UCLouvain      |
+| Jip Dekker                              | Monash University        |
+| Emir Demirović                          | TU Delft                 |
+| Andreina Francisco Rodriguez            | Uppsala University       |
+| Zeynep Kiziltan                         | University of Bologna    |
+| Kevin Leo                               | Monash University        |
+| Ciaran McCreesh                         | University of Glasgow    |
+| Peter Nightingale                       | University of York       |
+| Dimosthenis Tsouros                     | KU Leuven                |
+| Mateu Villaret                          | Universitat de Girona    |
 
 
 
