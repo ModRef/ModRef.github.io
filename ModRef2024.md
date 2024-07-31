@@ -41,6 +41,26 @@ We also accept (and encourage) non-traditional electronic submissions, such as i
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2024. Accepted contributions will be allowed a time slot for a presentation at the workshop. In-person presentation is preferable, but we will allow remote presentation of papers when necessary. 
 
+## <a name="schedule"></a> Accepted Papers
+
+- Csobán Balogh, Ruth Hoffmann and Joan Espasa, **Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective**
+- Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa, **MIN2SMT - A MINION to SMT-LIB2 Compiler**
+- Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret, **Cross-Paradigm Modelling: A Case Study of Puzznic**
+- David Saikali and Gilles Pesant, **Constrained Molecule Generation Modelled using the Grammar Constraint**
+- Helmut Simonis, **Approximating a Global Objective by Solving Repeated Sub-problems for an Oven Scheduling Problem**
+- Andrea Balogh, Sharmi Dev Gupta, Jheisson Argiro López Restrepo, Barry O'Sullivan, Helmut Simonis and Filipe Souza, **Modelling Choices for the Roadef 2022 Challenge**
+- Deepak Ajwani, Peter Nightingale and Felix Ulrich-Oltean, **Generalizing Learning-to-Prune for Constraint Programming**
+- Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret Auselle, **Towards High-Level Modelling in Automated Planning**
+- Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker, **IndiCon: Selecting SAT Encodings for Individual Pseudo-Boolean and Linear Integer Constraints**
+- Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller, **Constraint Models for Relaxed Klondike Variants**
+- Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel, **Automatic Feature Learning for Essence: a Case Study on Car Sequencing**
+- Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns, **Efficient Modeling of Half-reified Global Constraints**
+- Pierre Schaus, Roger Kameugne and Charles Thomas, **Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint**
+- Davide Di Pierro, Stephan Mennicke and Stefano Ferilli, **A Schema-aware Logic Reformulation for Graph Reachability**
+- Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel, **Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays**
+- Jo Devriendt, **ManyWorlds: Combinatorial Programming with Functions**
+
+
 ## <a name="schedule"></a> Schedule
 
 TBD
@@ -49,18 +69,25 @@ TBD
 
 ## <a name="programCommittee"></a> Program Committee
 
-|-----------------------------------------|--------------------------| 
-| Nysret Musliu (Chair)                   | TU Wien                  |
-| Hélène Verhaeghe (Chair)                | KU Leuven/UCLouvain      |
-| Jip Dekker                              | Monash University        |
-| Emir Demirović                          | TU Delft                 |
-| Andreina Francisco Rodriguez            | Uppsala University       |
-| Zeynep Kiziltan                         | University of Bologna    |
-| Kevin Leo                               | Monash University        |
-| Ciaran McCreesh                         | University of Glasgow    |
-| Peter Nightingale                       | University of York       |
-| Dimosthenis Tsouros                     | KU Leuven                |
-| Mateu Villaret                          | Universitat de Girona    |
+|-----------------------------------------|-------------------------------------| 
+| Nysret Musliu (Chair)                   | TU Wien                             |
+| Hélène Verhaeghe (Chair)                | KU Leuven/UCLouvain                 |
+| Özgür Akgün                             | University of St Andrews            |
+| Ignace Bleukx                           | KU Leuven                           |
+| Jip Dekker                              | Monash University                   |
+| Emir Demirović                          | TU Delft                            |
+| Andreina Francisco Rodriguez            | Uppsala University                  |
+| Zeynep Kiziltan                         | University of Bologna               |
+| Lucas Kletzander                        | TU Wien                             |
+| Jimmy Lee                               | The Chinese University of Hong Kong |
+| Kevin Leo                               | Monash University                   |
+| Ciaran McCreesh                         | University of Glasgow               |
+| Peter Nightingale                       | University of York                  |
+| Helmut Simonis                          | University College Cork             |
+| Charles Thomas                          | UCLouvain                           |
+| Dimosthenis Tsouros                     | KU Leuven                           |
+| Mateu Villaret                          | Universitat de Girona               |
+| Felix Winter                            | TU Wien                             |
 
 
 
