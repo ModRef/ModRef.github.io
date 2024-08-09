@@ -41,7 +41,35 @@ We also accept (and encourage) non-traditional electronic submissions, such as i
 
 All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2024. Accepted contributions will be allowed a time slot for a presentation at the workshop. In-person presentation is preferable, but we will allow remote presentation of papers when necessary. 
 
-## <a name="schedule"></a> Accepted Papers
+## <a name="invitedTalk"></a> Invited Talk
+
+### **From ModRef 2014 to ModRef 2024: Ten years of CP models for solving differential cryptanalysis problems** by Christine Solnon
+
+Abstract: This talk will tell the 10-year story of using CP for differential cryptanalysis. The story starts at ModRef 2014, where a first CP model is introduced for computing differential characteristics for AES, the most famous symmetric cipher [1]. This first model is straightforward and it does not scale well enough to solve all instances. Improvements introduced in [2] and [3] allow CP solvers to outperform dedicated approaches and solve all instances in a few hours. Since then, similar CP models have been proposed for other symmetric ciphers (e.g., Midori [4], Skinny [5], and Rijndael [6]), and other differential cryptanalysis problems (e.g., boomerang [7,8] and rectangle attacks [9]). Finally, in [10] and [11], we introduce a generic tool for automatically generating these CP models for all word-oriented ciphers.
+
+[1] M. Minier, C. Solnon, J. Reboul: Solving a Symmetric Key Cryptographic Problem with Constraint Programming, in ModRef 2014
+
+[2] D. Gérault, M. Minier, C. Solnon: Constraint Programming Models for Chosen Key Differential Cryptanalysis, in CP 2016
+
+[3] D. Gérault, P. Lafourcade, M. Minier, C. Solnon: Computing AES related-key differential characteristics with constraint programming, in AIJ 2020
+
+[4] D Gérault, P Lafourcade: Related-key cryptanalysis of midori, in IndoCrypt 2016
+
+[5] S. Sun, D. Gerault, P. Lafourcade, Q. Yang, Y. Todo, K. Qiao, L. Hu: Analysis of AES, SKINNY, and others with constraint programming, in IACR transactions on symmetric cryptology 2017
+
+[6] L. Rouquette, D. Gerault, M. Minier, C Solnon: And rijndael? Automatic related-key differential analysis of rijndael, in AfricaCrypt 2022
+
+[7] S. Delaune, P. Derbez, M. Vavrille: Catching the Fastest Boomerangs: Application to SKINNY, in IACR Transactions on Symmetric Cryptology 2020
+
+[8] L. Rouquette, M. Minier, C. Solnon: Automatic boomerang attacks search on Rijndael, in Mathematical Cryptology 2024
+
+[9] V. Lallemand, M. Minier, L. Rouquette: Automatic search of rectangle attacks on feistel ciphers: application to WARP, in IACR Transactions on Symmetric Cryptology 2022
+
+[10] L. Libralesso, F. Delobel, P. Lafourcade, C. Solnon: Automatic Generation of Declarative Models for Differential Cryptanalysis, in CP 2021
+
+[11] F. Delobel, P. Derbez, A. Gontier, L. Rouquette, C. Solnon: A CP-based Automatic Tool for Instantiating Truncated Differential Characteristics, in INDOCRYPT 2023
+
+## <a name="acceptedPapers"></a> Accepted Papers
 
 - Csobán Balogh, Ruth Hoffmann and Joan Espasa, **Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective**
 - Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa, **MIN2SMT - A MINION to SMT-LIB2 Compiler**
@@ -55,7 +83,7 @@ All submissions will be reviewed and those that are well-written and make a wort
 - Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller, **Constraint Models for Relaxed Klondike Variants**
 - Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel, **Automatic Feature Learning for Essence: a Case Study on Car Sequencing**
 - Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns, **Efficient Modeling of Half-reified Global Constraints**
-- Pierre Schaus, Roger Kameugne and Charles Thomas, **Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint**
+- Pierre Schaus, Roger Kameugne and Charles Thomas, **Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint** (Extended Abstract)
 - Davide Di Pierro, Stephan Mennicke and Stefano Ferilli, **A Schema-aware Logic Reformulation for Graph Reachability**
 - Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel, **Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays**
 - Jo Devriendt, **ManyWorlds: Combinatorial Programming with Functions**
@@ -63,8 +91,34 @@ All submissions will be reviewed and those that are well-written and make a wort
 
 ## <a name="schedule"></a> Schedule
 
-TBD
+### Session 1 (9:00-10:30)
 
+- 9:00 – 9:20: Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa, **MIN2SMT - A MINION to SMT-LIB2 Compiler**
+- 9:20 – 9:40: Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret, **Cross-Paradigm Modelling: A Case Study of Puzznic**
+- 9:40 - 10:00: Helmut Simonis, **Approximating a Global Objective by Solving Repeated Sub-problems for an Oven Scheduling Problem**
+- 10:00 - 10:20: Andrea Balogh, Sharmi Dev Gupta, Jheisson Argiro López Restrepo, Barry O'Sullivan, Helmut Simonis and Filipe Souza, **Modelling Choices for the Roadef 2022 Challenge**
+- 10:20 - 10:30: Pierre Schaus, Roger Kameugne and Charles Thomas, **Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint** (Extended Abstract)
+
+### Session 2 (11:00-12:30)
+
+- 11:00 - 12:00: Invited talk by Christine Solnon, **From ModRef 2014 to ModRef 2024: Ten years of CP models for solving differential cryptanalysis problems**
+- 12:00 - 12:15: Csobán Balogh, Ruth Hoffmann and Joan Espasa, **Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective**
+- 12:15 - 13:00: David Saikali and Gilles Pesant, **Constrained Molecule Generation Modelled using the Grammar Constraint**
+
+### Session 3 (14:00-15:30)
+
+- 14:00 - 14:20: Deepak Ajwani, Peter Nightingale and Felix Ulrich-Oltean, **Generalizing Learning-to-Prune for Constraint Programming**
+- 14:20 - 14:40: Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret Auselle, **Towards High-Level Modelling in Automated Planning**
+- 14:40 - 15:00: Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller, **Constraint Models for Relaxed Klondike Variants**
+- 15:00 - 15:15: Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker, **IndiCon: Selecting SAT Encodings for Individual Pseudo-Boolean and Linear Integer Constraints**
+- 15:15 - 15:30: Davide Di Pierro, Stephan Mennicke and Stefano Ferilli, **A Schema-aware Logic Reformulation for Graph Reachability**
+
+### Session 4 (16:00-17:30)
+
+- 16:00 - 16:20: Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel, **Automatic Feature Learning for Essence: a Case Study on Car Sequencing**
+- 16:20 - 16:40: Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns, **Efficient Modeling of Half-reified Global Constraints**
+- 16:40 - 17:00: Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel, **Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays**
+- 17:00 - 17:20: Jo Devriendt, **ManyWorlds: Combinatorial Programming with Functions**
 
 
 ## <a name="programCommittee"></a> Program Committee
