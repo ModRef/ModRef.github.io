@@ -71,22 +71,38 @@ Abstract: This talk will tell the 10-year story of using CP for differential cry
 
 ## <a name="acceptedPapers"></a> Accepted Papers
 
-- Csobán Balogh, Ruth Hoffmann and Joan Espasa, **Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective**
+- Csobán Balogh, Ruth Hoffmann and Joan Espasa, **Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective** 
+[(paper)](papers/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf)
 - Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa, **MIN2SMT - A MINION to SMT-LIB2 Compiler**
+[(paper)](papers/ModRef2024_MIN2SMT.pdf)
 - Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret, **Cross-Paradigm Modelling: A Case Study of Puzznic**
+[(paper)](papers/ModRef2024_CrossParadigmModelling.pdf)
 - David Saikali and Gilles Pesant, **Constrained Molecule Generation Modelled using the Grammar Constraint**
+[(paper)](papers/ModRef2024_ConstrainedMoleculeGenerationModelledusingtheGrammarConstraint.pdf)
 - Helmut Simonis, **Approximating a Global Objective by Solving Repeated Sub-problems for an Oven Scheduling Problem**
+[(paper)](papers/ModRef2024_ApproximatingaGlobalObjectivebySolvingRepeatedSubproblems.pdf)
 - Andrea Balogh, Sharmi Dev Gupta, Jheisson Argiro López Restrepo, Barry O'Sullivan, Helmut Simonis and Filipe Souza, **Modelling Choices for the Roadef 2022 Challenge**
+[(paper)](papers/ModRef2024_ModellingChoicesfortheRoadef2022Challenge.pdf)
 - Deepak Ajwani, Peter Nightingale and Felix Ulrich-Oltean, **Generalizing Learning-to-Prune for Constraint Programming**
+[(paper)](papers/ModRef2024_GeneralizingLearningtoPruneforConstraintProgramming.pdf)
 - Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret Auselle, **Towards High-Level Modelling in Automated Planning**
+[(paper)](papers/ModRef2024_TowardsHighLevelModellinginAutomatedPlanning.pdf)
 - Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker, **IndiCon: Selecting SAT Encodings for Individual Pseudo-Boolean and Linear Integer Constraints**
+[(paper)](papers/ModRef2024_IndiCon.pdf)
 - Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller, **Constraint Models for Relaxed Klondike Variants**
+[(paper)](papers/ModRef2024_ConstraintModelsforRelaxedKlondikeVariants.pdf)
 - Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel, **Automatic Feature Learning for Essence: a Case Study on Car Sequencing**
+[(paper)](papers/ModRef2024_AutomaticFeatureLearningforEssence.pdf)
 - Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns, **Efficient Modeling of Half-reified Global Constraints**
+[(paper)](papers/ModRef2024_EfficientModelingofHalfreifiedGlobalConstraints.pdf)
 - Pierre Schaus, Roger Kameugne and Charles Thomas, **Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint** (Extended Abstract)
+[(paper)](papers/ModRef2024_ImplementingCumulativeFunctionsforConditionalTaskIntervals.pdf)
 - Davide Di Pierro, Stephan Mennicke and Stefano Ferilli, **A Schema-aware Logic Reformulation for Graph Reachability**
+[(paper)](papers/ModRef2024_ASchemaawareLogicReformulationforGraphReachability.pdf)
 - Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel, **Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays**
+[(paper)](papers/ModRef2024_AutomatedNogoodFilteredFineGrainedStreamlining.pdf)
 - Jo Devriendt, **ManyWorlds: Combinatorial Programming with Functions**
+[(paper)](papers/ModRef2024_ManyWorlds.pdf)
 
 
 ## <a name="schedule"></a> Schedule
