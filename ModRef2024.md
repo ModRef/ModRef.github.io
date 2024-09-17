@@ -45,6 +45,8 @@ All submissions will be reviewed and those that are well-written and make a wort
 
 ### **From ModRef 2014 to ModRef 2024: Ten years of CP models for solving differential cryptanalysis problems** by Christine Solnon
 
+[(slides)](slides/ModRef2024_FromModRef2014toModRef2024.pdf)
+
 Abstract: This talk will tell the 10-year story of using CP for differential cryptanalysis. The story starts at ModRef 2014, where a first CP model is introduced for computing differential characteristics for AES, the most famous symmetric cipher [1]. This first model is straightforward and it does not scale well enough to solve all instances. Improvements introduced in [2] and [3] allow CP solvers to outperform dedicated approaches and solve all instances in a few hours. Since then, similar CP models have been proposed for other symmetric ciphers (e.g., Midori [4], Skinny [5], and Rijndael [6]), and other differential cryptanalysis problems (e.g., boomerang [7,8] and rectangle attacks [9]). Finally, in [10] and [11], we introduce a generic tool for automatically generating these CP models for all word-oriented ciphers.
 
 [1] M. Minier, C. Solnon, J. Reboul: Solving a Symmetric Key Cryptographic Problem with Constraint Programming, in ModRef 2014
@@ -72,13 +74,13 @@ Abstract: This talk will tell the 10-year story of using CP for differential cry
 ## <a name="acceptedPapers"></a> Accepted Papers
 
 - Csobán Balogh, Ruth Hoffmann and Joan Espasa, **Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective** 
-[(paper)](papers/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf)
+[(paper)](papers/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf) [(slides)](slides/ModRef2024_TowardsUnderstandingDifferencesBetweenModellingPipelines.pdf)
 - Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa, **MIN2SMT - A MINION to SMT-LIB2 Compiler**
 [(paper)](papers/ModRef2024_MIN2SMT.pdf)
 - Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret, **Cross-Paradigm Modelling: A Case Study of Puzznic**
 [(paper)](papers/ModRef2024_CrossParadigmModelling.pdf)
 - David Saikali and Gilles Pesant, **Constrained Molecule Generation Modelled using the Grammar Constraint**
-[(paper)](papers/ModRef2024_ConstrainedMoleculeGenerationModelledusingtheGrammarConstraint.pdf)
+[(paper)](papers/ModRef2024_ConstrainedMoleculeGenerationModelledusingtheGrammarConstraint.pdf) [(slides)](slides/ModRef2024_ConstrainedMoleculeGenerationModelledusingtheGrammarConstraint.pdf)
 - Helmut Simonis, **Approximating a Global Objective by Solving Repeated Sub-problems for an Oven Scheduling Problem**
 [(paper)](papers/ModRef2024_ApproximatingaGlobalObjectivebySolvingRepeatedSubproblems.pdf)
 - Andrea Balogh, Sharmi Dev Gupta, Jheisson Argiro López Restrepo, Barry O'Sullivan, Helmut Simonis and Filipe Souza, **Modelling Choices for the Roadef 2022 Challenge**
@@ -90,19 +92,19 @@ Abstract: This talk will tell the 10-year story of using CP for differential cry
 - Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker, **IndiCon: Selecting SAT Encodings for Individual Pseudo-Boolean and Linear Integer Constraints**
 [(paper)](papers/ModRef2024_IndiCon.pdf)
 - Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller, **Constraint Models for Relaxed Klondike Variants**
-[(paper)](papers/ModRef2024_ConstraintModelsforRelaxedKlondikeVariants.pdf)
+[(paper)](papers/ModRef2024_ConstraintModelsforRelaxedKlondikeVariants.pdf) [(slides)](slides/ModRef2024_ConstraintModelsforRelaxedKlondikeVariants.pdf)
 - Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel, **Automatic Feature Learning for Essence: a Case Study on Car Sequencing**
-[(paper)](papers/ModRef2024_AutomaticFeatureLearningforEssence.pdf)
+[(paper)](papers/ModRef2024_AutomaticFeatureLearningforEssence.pdf) [(slides)](slides/ModRef2024_AutomaticFeatureLearningforEssence.pdf)
 - Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns, **Efficient Modeling of Half-reified Global Constraints**
-[(paper)](papers/ModRef2024_EfficientModelingofHalfreifiedGlobalConstraints.pdf)
+[(paper)](papers/ModRef2024_EfficientModelingofHalfreifiedGlobalConstraints.pdf) [(slides)](slides/ModRef2024_EfficientModelingofHalfreifiedGlobalConstraints.pdf)
 - Pierre Schaus, Roger Kameugne and Charles Thomas, **Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint** (Extended Abstract)
-[(paper)](papers/ModRef2024_ImplementingCumulativeFunctionsforConditionalTaskIntervals.pdf)
+[(paper)](papers/ModRef2024_ImplementingCumulativeFunctionsforConditionalTaskIntervals.pdf) [(slides)](slides/ModRef2024_ImplementingCumulativeFunctionsforConditionalTaskIntervals.pdf)
 - Davide Di Pierro, Stephan Mennicke and Stefano Ferilli, **A Schema-aware Logic Reformulation for Graph Reachability**
 [(paper)](papers/ModRef2024_ASchemaawareLogicReformulationforGraphReachability.pdf)
 - Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel, **Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays**
 [(paper)](papers/ModRef2024_AutomatedNogoodFilteredFineGrainedStreamlining.pdf)
 - Jo Devriendt, **ManyWorlds: Combinatorial Programming with Functions**
-[(paper)](papers/ModRef2024_ManyWorlds.pdf)
+[(paper)](papers/ModRef2024_ManyWorlds.pdf) [(slides)](slides/ModRef2024_ManyWorlds.pdf)
 
 
 ## <a name="schedule"></a> Schedule
