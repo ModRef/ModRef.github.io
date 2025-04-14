@@ -1,9 +1,9 @@
 ---
-layout: Layout2024
+layout: Layout2025
 title: ModRef 2025
 ---
 
-ModRef 2024 is the 23rd in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.york.ac.uk/~af9/ModRef/) organized as part of CP 2024, the [30st International Conference on Principles and Practice of Constraint Programming](https://cp2024.a4cp.org/).
+ModRef 2025 is the 24th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.york.ac.uk/~af9/ModRef/) organized as part of CP 2025, the [31st International Conference on Principles and Practice of Constraint Programming](https://cp2025.a4cp.org/).
 It will be held on September 2nd, directly preceding the CP conference. 
 
 The importance of modelling and model reformulation is widely recognised, particularly for CP but also for MIP, SAT, SMT and other kinds of general-purpose solvers. There has been significant research effort in recent years into modelling and model reformulation, such as automating techniques used by expert modellers, and developing tools and techniques to target multiple types of solvers from one model. 
@@ -108,35 +108,7 @@ Abstract: This talk will tell the 10-year story of using CP for differential cry
 
 ## <a name="schedule"></a> Schedule
 
-### Session 1 (9:00-10:30)
-
-- 9:00 – 9:20: Stephan Frühwirt, Roxane Koitz-Hristov and Franz Wotawa, **MIN2SMT - A MINION to SMT-LIB2 Compiler**
-- 9:20 – 9:40: Joan Espasa Arxer, Ian Gent, Ian Miguel, Peter Nightingale, András Z. Salamon and Mateu Villaret, **Cross-Paradigm Modelling: A Case Study of Puzznic**
-- 9:40 - 10:00: Helmut Simonis, **Approximating a Global Objective by Solving Repeated Sub-problems for an Oven Scheduling Problem**
-- 10:00 - 10:20: Andrea Balogh, Sharmi Dev Gupta, Jheisson Argiro López Restrepo, Barry O'Sullivan, Helmut Simonis and Filipe Souza, **Modelling Choices for the Roadef 2022 Challenge**
-- 10:20 - 10:30: Pierre Schaus, Roger Kameugne and Charles Thomas, **Implementing Cumulative Functions for Conditional Task Intervals using a Generalized Cumulative Constraint** (Extended Abstract)
-
-### Session 2 (11:00-12:30)
-
-- 11:00 - 12:00: Invited talk by Christine Solnon, **From ModRef 2014 to ModRef 2024: Ten years of CP models for solving differential cryptanalysis problems**
-- 12:00 - 12:15: Csobán Balogh, Ruth Hoffmann and Joan Espasa, **Towards Understanding Differences Between Modelling Pipelines: a Modelers Perspective**
-- 12:15 - 13:00: David Saikali and Gilles Pesant, **Constrained Molecule Generation Modelled using the Grammar Constraint**
-
-### Session 3 (14:00-15:30)
-
-- 14:00 - 14:20: Deepak Ajwani, Peter Nightingale and Felix Ulrich-Oltean, **Generalizing Learning-to-Prune for Constraint Programming**
-- 14:20 - 14:40: Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret Auselle, **Towards High-Level Modelling in Automated Planning**
-- 14:40 - 15:00: Nguyen Dang, Ian Gent, Peter Nightingale, Felix Ulrich-Oltean and Jack Waller, **Constraint Models for Relaxed Klondike Variants**
-- 15:00 - 15:15: Felix Ulrich-Oltean, Peter Nightingale and James Alfred Walker, **IndiCon: Selecting SAT Encodings for Individual Pseudo-Boolean and Linear Integer Constraints**
-- 15:15 - 15:30: Davide Di Pierro, Stephan Mennicke and Stefano Ferilli, **A Schema-aware Logic Reformulation for Graph Reachability**
-
-### Session 4 (16:00-17:30)
-
-- 16:00 - 16:20: Alessio Pellegrino, Özgür Akgün, Nguyen Dang, Zeynep Kiziltan and Ian Miguel, **Automatic Feature Learning for Essence: a Case Study on Car Sequencing**
-- 16:20 - 16:40: Ignace Bleukx, Hélène Verhaeghe, Dimosthenis C. Tsouros and Tias Guns, **Efficient Modeling of Half-reified Global Constraints**
-- 16:40 - 17:00: Orhan Yigit Yazicilar, Ozgur Akgun and Ian Miguel, **Automated Nogood-Filtered Fine-Grained Streamlining: A Case Study on Covering Arrays**
-- 17:00 - 17:20: Jo Devriendt, **ManyWorlds: Combinatorial Programming with Functions**
-
+TBA
 
 ## <a name="programCommittee"></a> Program Committee
 
