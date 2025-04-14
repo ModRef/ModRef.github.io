@@ -1,6 +1,7 @@
 ---
 layout: Layout2025
 title: ModRef 2025
+redirect_from: "/"
 ---
 
 ModRef 2025 is the 24th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.york.ac.uk/~af9/ModRef/) organized as part of CP 2025, the [31st International Conference on Principles and Practice of Constraint Programming](https://cp2025.a4cp.org/).

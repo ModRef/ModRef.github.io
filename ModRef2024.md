@@ -1,7 +1,6 @@
 ---
 layout: Layout2024
 title: ModRef 2024
-redirect_from: "/"
 ---
 
 ModRef 2024 is the 23rd in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.york.ac.uk/~af9/ModRef/) organized as part of CP 2024, the [30st International Conference on Principles and Practice of Constraint Programming](https://cp2024.a4cp.org/).
