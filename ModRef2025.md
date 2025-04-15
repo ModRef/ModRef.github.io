@@ -5,7 +5,7 @@ redirect_from: "/"
 ---
 
 ModRef 2025 is the 24th in a [series of workshops on Constraint Modelling and Reformulation](https://www-users.york.ac.uk/~af9/ModRef/) organized as part of CP 2025, the [31st International Conference on Principles and Practice of Constraint Programming](https://cp2025.a4cp.org/).
-It will be held on September 2nd, directly preceding the CP conference. 
+It will be held on August 11, 2025, directly preceding the CP conference. 
 
 The importance of modelling and model reformulation is widely recognised in many domains, such as for CP, MIP, SAT, SMT and other kinds of general-purpose solvers. There has been significant research effort in recent years into modelling and model reformulation, such as automating techniques used by expert modellers, and developing tools and techniques to target multiple types of solvers from one model. 
 
