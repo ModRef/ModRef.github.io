@@ -23,11 +23,11 @@ Workshop topics include:
 ## <a name="importantDates"></a> Important Dates
 
 |------------------------------------------|--------------------------------------------:|
-| Abstract Submission                      | **TBA, 2025**                          |
-| Paper Submission                         | **TBA, 2025**                          |
-| Notification of acceptance/rejection     | **TBA, 2025**                         |
-| Camera ready version                     | **TBA, 2025**                       |
-| Workshop day                             | **TBA, 2025**                     |
+| Abstract Submission                      | **June 8, 2025**                          |
+| Paper Submission                         | **June 15, 2025**                          |
+| Notification of acceptance/rejection     | **June 25, 2025**                         |
+| Camera ready version                     | **August 1, 2025**                       |
+| Workshop day                             | **August 11, 2025**                     |
 
 ## <a name="callForPapers"></a> Call for Papers 
 
