@@ -56,6 +56,15 @@ TBA
 
 ## <a name="programCommittee"></a> Program Committee
 
-|-----------------------------------------|-------------------------------------| 
+|---------------------===--------------------|-------------------------------------| 
 | María Andreína Francisco Rodríguez (Chair) | Uppsala University                  |
-| Ian Gent (Chair)                             | University of St Andrews            |
+| Ian Gent (Chair)                           | University of St Andrews            |
+| Özgür Akgün                                | University of St Andrews            |
+| Ramiz Gindullin                            | Uppsala University                  |
+| Christopher Jefferson                      | University of St Andrews            |
+| Jan Kronqvist                              | KTH                                 |
+| Jimmy Lee                                  | The Chinese University of Hong Kong |
+| Justin Pearson                             | Uppsala University                  |
+| Felix Ulrich-Oltean                        | University of York                  | 
+| Mateu Villaret                             | Universitat de Girona               |
+
