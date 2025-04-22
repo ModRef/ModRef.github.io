@@ -56,7 +56,7 @@ TBA
 
 ## <a name="programCommittee"></a> Program Committee
 
-|---------------------===--------------------|-------------------------------------| 
+|--------------------------------------------|-------------------------------------| 
 | María Andreína Francisco Rodríguez (Chair) | Uppsala University                  |
 | Ian Gent (Chair)                           | University of St Andrews            |
 | Özgür Akgün                                | University of St Andrews            |
