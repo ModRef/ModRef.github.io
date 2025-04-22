@@ -65,6 +65,7 @@ TBA
 | Jan Kronqvist                              | KTH                                 |
 | Jimmy Lee                                  | The Chinese University of Hong Kong |
 | Justin Pearson                             | Uppsala University                  |
-| Felix Ulrich-Oltean                        | University of York                  | 
+| Felix Ulrich-Oltean                        | University of York                  |
+| Hélène Verhaeghe                           | UCLouvain                           |
 | Mateu Villaret                             | Universitat de Girona               |
 
