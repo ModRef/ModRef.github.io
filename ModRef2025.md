@@ -64,6 +64,7 @@ TBA
 | Christopher Jefferson                      | University of St Andrews            |
 | Jan Kronqvist                              | KTH                                 |
 | Jimmy Lee                                  | The Chinese University of Hong Kong |
+| Kevin Leo                                  | Monash University                   |
 | Justin Pearson                             | Uppsala University                  |
 | Felix Ulrich-Oltean                        | University of York                  |
 | Hélène Verhaeghe                           | UCLouvain                           |
