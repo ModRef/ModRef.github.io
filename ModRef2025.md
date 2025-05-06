@@ -45,6 +45,8 @@ Paper Submission Link: [https://openreview.net/group?id=a4cp.org/CP/2025/Worksho
 
 [Marijn Heule](https://www.cs.cmu.edu/~mheule/), Carnegie Mellon University
 
+**Solving Problems in Discrete Geometry Using SAT**
+
 ## <a name="acceptedPapers"></a> Accepted Papers
 
 TBA
