@@ -33,13 +33,12 @@ Workshop topics include:
 
 This year ModRef will again accept paper submissions. In addition to the presentation of research results, we especially welcome submissions of novel (ongoing) work, recent breakthroughs, future directions, and descriptions of interesting aspects of existing systems.
 
-<!-- There are three types of paper submissions: extended abstracts (at most two pages), short papers (at most eight pages) and long papers (at most fifteen pages). References are not part of the page limit. Papers are submitted through [EasyChair](https://easychair.org/conferences/?conf=modref2024), as a PDF file following [LIPIcs guidelines](https://submission.dagstuhl.de/series/details/5#author). There is no requirement for papers to be anonymised before submission. 
+There are three types of paper submissions: extended abstracts (at most two pages), short papers (at most eight pages) and long papers (at most fifteen pages). References are not part of the page limit. Papers are submitted through [OpenReview](https://openreview.net/group?id=a4cp.org/CP/2025/Workshop/ModRef) as PDF files following [LIPIcs guidelines](https://submission.dagstuhl.de/series/details/5#author). There is no requirement for papers to be anonymised before submission.
 
-We also accept (and encourage) non-traditional electronic submissions, such as interactive works/tool demonstrations. In this case, please contact the chairs to discuss the suitability of your submission for ModRef. 
-[chairs](mailto://helene.verhaeghe@kuleuven.be)--> 
+We also accept (and encourage) non-traditional electronic submissions, such as interactive works/tool demonstrations. In this case, please contact the chairs to discuss the suitability of your submission for ModRef.
 
+All submissions will be reviewed, and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings, which will be available electronically on this website. Accepted contributions will be allowed a time slot for a presentation at the workshop.
 
-All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically. Accepted contributions will be allowed a time slot for a presentation at the workshop. In-person presentation is preferable, but we will allow remote presentation of papers when necessary. 
 
 ## <a name="invitedTalk"></a> Invited Talk
 
