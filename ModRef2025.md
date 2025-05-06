@@ -43,7 +43,7 @@ All submissions will be reviewed and those that are well-written and make a wort
 
 ## <a name="invitedTalk"></a> Invited Talk
 
-TBA
+[Marijn Heule](https://www.cs.cmu.edu/~mheule/), Carnegie Mellon University
 
 ## <a name="acceptedPapers"></a> Accepted Papers
 
