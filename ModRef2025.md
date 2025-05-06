@@ -1,4 +1,4 @@
----
+2---
 layout: Layout2025
 title: ModRef 2025
 redirect_from: "/"
@@ -39,6 +39,7 @@ We also accept (and encourage) non-traditional electronic submissions, such as i
 
 All submissions will be reviewed, and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings, which will be available electronically on this website. Accepted contributions will be allowed a time slot for a presentation at the workshop.
 
+Paper Submission Link: [https://openreview.net/group?id=a4cp.org/CP/2025/Workshop/ModRef](https://openreview.net/group?id=a4cp.org/CP/2025/Workshop/ModRef)
 
 ## <a name="invitedTalk"></a> Invited Talk
 
